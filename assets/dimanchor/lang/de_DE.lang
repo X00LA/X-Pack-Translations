@@ -1,0 +1,24 @@
+##########################################################
+# Translated by X00LA, 21.09.2014               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+tile.dimanchor.name=Dimensional Anchor
+gui.dimanchor.setOwnerToYou=Setze Besitzer auf dich
+gui.dimanchor.setOwnerToServer=Stze Besitzer auf Server
+gui.dimanchor.shape=Form: %1$s
+gui.dimanchor.shape.square=Quadrat
+gui.dimanchor.shape.lineX=X Linie
+gui.dimanchor.shape.lineZ=Z Linie
+gui.dimanchor.owner.server=Besitz von Server.
+gui.dimanchor.owner=Besitzer: %1$s
+gui.dimanchor.unlimited=Unbegrenzt
+gui.dimanchor.limit.yours=Dein Chunk Limit: %1$s / %2$s
+gui.dimanchor.limit.other=Besitzers Chunk Limit: %1$s / %2$s
+gui.dimanchor.area=Bereich: %1$s
+gui.dimanchor.area.none=Bereich: Nichts
+gui.dimanchor.lastline=Nur OP's und Besitzer können das sehen.
+gui.dimanchor.active=Chunkloader ist aktiv.
+gui.dimanchor.inactive=Chunkloader ist inaktiv.
+gui.dimanchor.fuelleft=Treibstoff reicht noch: %1$s

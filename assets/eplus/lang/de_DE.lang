@@ -1,0 +1,11 @@
+##########################################################
+# Translated by X00LA, 21.09.2014               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+itemGroup.eplus.blocks=Enchanting Plus: Blöcke
+itemGroup.eplus.items=Enchanting Plus: Gegenstände
+
+tile.advEnchantmentTable.name=Erweiterter Verzauberungstisch
+item.advTableUpgrade.name=Erweiterter Verzauberungstisch Upgrade

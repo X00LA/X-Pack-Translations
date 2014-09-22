@@ -1,0 +1,26 @@
+##########################################################
+# Translated by X00LA, 21.09.2014               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+item.engineeringDiary.name=Ingenieurs Tagebuch
+
+itemGroup.Eureka=Eureka
+
+Eureka=EUREKA!
+eureka.dusterTier0Finished=Du planst all deine zuküftigen Vorhaben erkennst aber, dass du dafür eine Menge an Resourcen benötigst. Du denkst über einen Weg nach, leichter an diese zu kommen.
+eureka.dusterTier1Finished=Während du deine Erze verarbeitest realisierst du, dass es einen viel besseren Weg gibt, diese zu verarbeiten.
+eureka.dusterTier2-1Finished=Nachdem es dir nun möglich sit, das Ausgegebene in deine Lager zu legen hast du entschieden, die Verarbeitung selbst zu automatisieren.
+eureka.dusterTier2-2Finished=Du willst nicht immer auf die Maschine springen, aber du willst auch eine automatische Ein- und Ausgabe. Du entscheidest dich, dein Wissen in einer neuen Maschine zu kombinieren. Vielleicht etwas mit Lasern?
+eureka.kineticToolFinished=Während du ein neues Werkzeug herstellst, welches dein Altes ersetzen soll, suchst du nach einem Weg ein unzerstörbares Werkzeug herzustellen.
+eureka.missingKnowledge=Du hast keine Idee wie diese Maschine funktionieren soll (im Moment). Du versuchst sie zu verwenden, aber deine Inkompetenz lässt sie auseinander fallen.
+eureka.missingKnowledgeKineticTool=Du hast keine Idee wie dieses Werkzeug funktioniert (im Moment). Du versuchst es zu verwenden, aber deine Inkompetenz lässt es auseinander fallen.
+
+engineeringDiary.Eureka.title=Ingenieurs Tagebuch
+engineeringDiary.Eureka.page0=Dieses Buch ist ist ein Tagebuch über deine Fortschritte in der Entdeckung von Items und Blöcken durch das Eureka System. Als ein Ingenieur musst du experimentieren und testen bevor due eine neue Maschine bauen kannst.
+engineeringDiary.Eureka.page1=Du musst ausserdem einfache Maschinen bauen und verwenden um den Eureka Moment zu haben der zu neuen Kreationen führt. Habe Spaß!
+
+engineeringDiary.requiredResearch=Erforderliche Forschung:
+engineeringDiary.progress=Vortschritt:
+engineeringDiary.unlocked=FREIGESCHALTET

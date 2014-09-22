@@ -1,0 +1,37 @@
+##########################################################
+# Translated by X00LA, 21.09.2014               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+entity.elementalcreepers:FireCreeper.name=Feuercreeper
+entity.elementalcreepers:WaterCreeper.name=Wassercreeper
+entity.elementalcreepers:ElectricCreeper.name=Elektrocreeper
+entity.elementalcreepers:CookieCreeper.name=Kekscreeper
+entity.elementalcreepers:DarkCreeper.name=Dunkelcreeper
+entity.elementalcreepers:LightCreeper.name=Lichtcreeper
+entity.elementalcreepers:EarthCreeper.name=Erdcreeper
+entity.elementalcreepers:MagmaCreeper.name=Magmacreeper
+entity.elementalcreepers:ReverseCreeper.name=Drehcreeper
+entity.elementalcreepers:IceCreeper.name=Eiscreeper
+entity.elementalcreepers:FriendlyCreeper.name=Freundlicher Creeper
+entity.elementalcreepers:GhostCreeper.name=Geistcreeper
+entity.elementalcreepers:FakeIllusionCreeper.name=Illusionscreeper
+entity.elementalcreepers:IllusionCreeper.name=Illusionscreeper
+entity.elementalcreepers:PsychicCreeper.name=Psychocreeper
+entity.elementalcreepers:SpiderCreeper.name=Spinnencreeper
+
+entity.elementalcreepers:WindCreeper.name=Windcreeper
+entity.elementalcreepers:HydrogenCreeper.name=Wasserstoffcreeper
+entity.elementalcreepers:EnderCreeper.name=Endercreeper
+entity.elementalcreepers:StoneCreeper.name=Steincreeper
+entity.elementalcreepers:SolarCreeper.name=Solarcreeper
+entity.elementalcreepers:CakeCreeper.name=Kuchencreeper
+entity.elementalcreepers:FireworkCreper.name=Sylvestercreeper
+
+entity.elementalcreepers:EUCreeper.name=EU-Creeper
+entity.elementalcreepers:RFCreeper.name=Flux-Creeper
+
+update.elementalcreepers.message=Ein neues Update für Elemental Creepers ist verfügbar!
+update.elementalcreepers.old=Alte Version:
+update.elementalcreepers.new=Neue Version:

@@ -1,0 +1,11 @@
+##########################################################
+# Translated by X00LA, 19.09.2014               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+commands.forge.usage=Verwendung /forge <subkommando>. Subkommandos sind tps, track
+commands.forge.usage.tracking=Verwendung /forge track <type> <duration>. Zulässige Typen sind te (Tile Entities). Dauer ist < 60. 
+commands.forge.tps.summary=%s : Bedeutet Tick Zeit: %d ms. Bedeutet TPS: %d
+
+commands.forge.tracking.te.enabled=Tile Entity-Tracking aktiviert für %d Sekunden.

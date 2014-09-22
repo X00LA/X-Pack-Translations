@@ -1,0 +1,25 @@
+##########################################################
+# Translated by X00LA, 19.09.2014               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+bdlib.multiblock.face.north=Norden
+bdlib.multiblock.face.south=Süden
+bdlib.multiblock.face.east=Osten
+bdlib.multiblock.face.west=Westen
+bdlib.multiblock.face.up=Oben
+bdlib.multiblock.face.down=Unten
+
+bdlib.multiblock.disabled=Deaktiviert
+bdlib.multiblock.incomplete=Diese Maschine ist unvollständig. Sie erfordert noch folgende Teile:
+bdlib.multiblock.notconnected=Mit keiner gültigen Maschine verbunden!
+bdlib.multiblock.toomanyoutputs=Zu viele Verbindungen angebracht, keine weiteren Verbindungen mehr möglich!
+
+bdlib.rsmode.always=Immer an
+bdlib.rsmode.never=Deaktiviert
+bdlib.rsmode.rs_on=Mit Redstone aktiviert
+bdlib.rsmode.rs_off=Mit Redstone deaktiviert
+
+bdlib.label.empty=Leer
+

@@ -1,0 +1,16 @@
+##########################################################
+# Translated by X00LA, 11.9.2014               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+tile.luckyBlock.name=Lucky Block
+item.luckyBlock.luck=Glück
+item.luckyBlock.customDrop=Hat benutzerdefinierten Drop
+commands.setluckyblock.usage=/setluckyblock <x> <y> <z> [luck] [customDrops]
+commands.setluckyblock.success=Lucky Block plaziert
+commands.setluckyblock.failed=Nicht möglich Lucky Block zu platzieren
+commands.setluckyblock.outOfWorld=Kann den Lucks Block nicht ausserhalb der Welt platzieren
+commands.setluckyblock.noChange=Lucky Block konnte nicht platziert werden
+commands.giveluckyblock.usage=/giveluckyblock <player> [amount] [luck] [customDrops]
+commands.giveluckyblock.success=Gegeben %s * %d an %s

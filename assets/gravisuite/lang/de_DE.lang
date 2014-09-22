@@ -1,0 +1,56 @@
+##########################################################
+# Translated by X00LA, 22.09.2014               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+item.graviChestPlate.name=Gravi Brustpanzer
+item.advNanoChestPlate.name=Erweiterter Nano-Brustpanzer
+item.ultLappack.name=Ultimatives Lappack
+item.advLappack.name=Erweitertes Lappack
+item.advElJetpack.name=Erweitertes elektrisches Jetpack
+item.vajra.name=Vajra
+item.advDDrill.name=Erweiterter Diamantbohrer
+item.advChainsaw.name=Erweiterte Kettensäge
+item.graviTool.name=GraviTool
+graviTool.snap.Hoe=Harke
+graviTool.snap.TreeTap=Baumspitze
+graviTool.snap.Wrench=Schraubenschlüssel
+graviTool.snap.Screwdriver=Schraubenzieher
+item.itemSuperConductorCover.name=Supraleiterabdeckung
+item.itemSuperConductor.name=Supraleiter
+item.itemCoolingCore.name=Kühlkern
+item.itemGravitationEngine.name=Garavitationsmotor
+item.itemMagnetron.name=Magnetron
+item.itemVajraCore.name=Vajrakern
+item.itemEngineBoost.name=Motor Booster
+message.text.noenergy=Nicht genug Energie für diese Operation!
+message.text.energyLevel=Leistungsstufe
+message.text.activated=aktiviert
+message.text.enabled=aktiviert
+message.text.on=an
+message.text.off=aus
+message.text.disabled=deaktiviert
+message.advElJetpack.hoverMode=Schwebemodus
+message.advElJetpack.jetpackEngine=Jetpack Turbine
+message.text.powerSupply=Stromversorgung
+message.text.mode=Modus
+message.advChainsaw.shear=Schere
+message.advDDrill.mode.normal=Normal
+message.advDDrill.mode.lowPower=Niedriger Strom
+message.advDDrill.mode.fine=Fein
+message.advDDrill.mode.bigHoles=Große Löcher
+message.vajra.silkTouchMode=Silktouch Modus
+message.vajra.silkTouchDisabled=Kann Werkzeugmodus nicht ändern! Genauer Modus in der Konfigurationsdatei deaktiviert!
+message.graviChestPlate.gravitationEngine=Garavitationsmotor
+message.graviChestPlate.levitationMode=Schwebemodus
+message.graviChestPlate.levitationMode.short=L
+message.graviChestPlate.lowEnergy=Nicht genug Energie vorhanden um den Gravitationsmotor zu verwenden!
+message.graviChestPlate.shutdown=Warnung! Deine Energiezelle ist leer! Gravitationsmotor ausgeschaltet!
+message.graviChestPlate.noEnergyToBoost=Nicht genügend Energie für den Einsatz des Boosters!
+message.hud.displayHud=Zeige HUD
+message.hud.location=HUD Position
+message.hud.location.topLeft=Oben links
+message.hud.location.topRight=Oben rechts
+message.hud.location.bottomLeft=Unten links
+message.hud.location.bottomRight=Unten rechts

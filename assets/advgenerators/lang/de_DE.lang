@@ -1,0 +1,49 @@
+##########################################################
+# Translated by X00LA, 22.09.2014               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+tile.advgenerators.FluidInput.name=Flüssigleits-Einlassventil
+tile.advgenerators.FuelTank.name=Treisbstofftank
+tile.advgenerators.MJOutput.name=Pneumatischer Leistungs Emitter
+tile.advgenerators.PowerCapacitor.name=Spannungskondensator
+tile.advgenerators.Turbine.name=Turbine
+tile.advgenerators.TurbineController.name=Turbinenkontrolle
+tile.advgenerators.EuOutputLV.name=LV Emitter
+tile.advgenerators.EuOutputMV.name=MV Emitter
+tile.advgenerators.EuOutputHV.name=HV Emitter
+tile.advgenerators.RFOutput.name=Flux Generator
+
+item.advgenerators.TurbineBlade.name=Turbinenblatt
+item.advgenerators.TurbineRotor.name=Turbinenrotor
+item.advgenerators.IronFrame.name=Eisenrahmen
+item.advgenerators.PowerIO.name=Strom IO-Modul
+item.advgenerators.IronTubing.name=Eisenrohre
+item.advgenerators.IronWiring.name=Redstone-Eisenrohre
+item.advgenerators.Controller.name=Steuerstromkreis
+
+advgenerators.gui.turbine.title=Turbinengeneratorsteuerung
+
+advgenerators.module.PowerOutput.name=Strom Emitter-Modul
+advgenerators.module.Turbine.name=Turbine
+advgenerators.module.FluidInput.name=Flüssigleits-Einlassventil
+advgenerators.module.FuelTank.name=Treisbstofftank
+advgenerators.module.PowerCapacitor.name=Spannungskondensator
+
+advgenerators.label.turbine.turbines=Verbundene Turbinen
+advgenerators.label.turbine.maxprod=Spitzenproduktion
+advgenerators.label.turbine.fuel=Spitzenverbrauch
+advgenerators.label.turbine.prod=Aktuelle Produktion
+
+advgenerators.output.0=Roter Ausgang
+advgenerators.output.1=Grüner Ausgang
+advgenerators.output.2=Blauer Ausgang
+advgenerators.output.3=Gelber Ausgang
+advgenerators.output.4=Cyan Ausgang
+advgenerators.output.5=Violetter Ausgang
+
+advgenerators.tooltip.turbine.fuel=%s MJ/mB im Turbinen-Generator
+
+itemGroup.bdew.generators=Advanced Generators
+

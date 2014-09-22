@@ -1,0 +1,10 @@
+##########################################################
+# Translated by X00LA, 22.09.2014               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+mods.immibis.core.tps.avg=Durchschnittliche TPS gegenüber den letzten %d Ticks: %s (Langsamste: %s)
+mods.immibis.core.tps.lastTime=Zeit zwischen den letzten zwei Ticks: %s (%s TPS)
+mods.immibis.core.tps.time=%dms
+mods.immibis.core.tps.tps=%s

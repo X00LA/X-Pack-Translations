@@ -1,0 +1,40 @@
+##########################################################
+# Translated by X00LA, 22.09.2014               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+ichun.config.cat.general.name=Allgemeine Einstellungen
+ichun.config.cat.gameplay.name=Gameplay
+ichun.config.cat.globalOptions.name=Globale Einstellungen
+ichun.config.cat.serverOptions.name=Server Einstellungen
+ichun.config.cat.clientOnly.name=Nur Client
+
+ichun.config.cat.general.comment=Diese Optionen sind allgemeine Einstellungen welche in keine andere Kategorie passen.
+ichun.config.cat.gameplay.comment=Diese Einstellungen wirken sich auf das gesamte Gameplay während der Verwendung des Mods aus.
+ichun.config.cat.globalOptions.comment=Diese Einstellungen wirken sich auf beide, Client und Server aus, wenn sie den Mod geladen ahben.
+ichun.config.cat.serverOptions.comment=Diese Optionen wirken sich nur auf den Server aus welcher den Mod geladen hat.
+ichun.config.cat.clientOnly.comment=Diese Optionen wirken sich nur auf den Client aus, welcher den Mod geladen hat.
+
+ichun.config.keybind.comment=Wenn du das lesen kannst, dann wird es dringend empfohlen, die Tastenbelegung InGame zu ändern.\niChunUtil uses custom keybinds. Go to the options page and hit O to show other options.\n\nIf you really have to edit the config file, the format is <key code>, and append either ":SHIFT", ":CTRL", or ":ALT" for keys you want to hold down at the same time.\nFor key codes go to: http://minecraft.gamepedia.com/Key_codes \nExample: 48:SHIFT:ALT will bind to the B key when you hold Shift and Alt.
+ichun.config.keybind.tip1=Diese Tastenkombinationen erlauben eine Kombination mit Shift/Ctrl/Alt.
+ichun.config.keybind.tip2=Halte diese gedrückt, während du eine Tastenkombination erstellst.
+ichun.config.keybind.tip3=Willst du Shift/Ctrl/Alt mit einbinden, halte diese für 3 Sekunden. Die letzte Taste die gedrückt wird gebunden.
+
+ichun.config.versionCheck.name=Update Checker
+ichun.config.versionSave.name=Update Checker Speicher
+ichun.config.patreon.name=Patreon
+
+ichun.config.versionCheck.comment=Diese Einstellungen sind für den Versions-Update-Checker, hinzugefügt von iChunUtil.
+ichun.config.versionSave.comment=Das sind die Speicher-Informationen für den Update-Checker. Ändere diese nicht wenn du nichts zerstören willst.
+ichun.config.patreon.comment=Patreon betreffende Konfigurationen.
+
+ichun.config.versionNotificationTypes.name=Update-Benachrichtigungs-Typ
+ichun.config.versionNotificationFrequency.name=Update-Benachrichtigungs-Frequenz
+ichun.config.showPatronReward.name=Zeige Patron Belohnung
+
+ichun.config.versionNotificationTypes.comment=Wie soll der CLIENT über Updates informiert werden? (Server bekommen die Benachrichtigung immer in der Konsole angezeigt. Singleplayer ist wie ein selbst gehosteter Server den du betrittst.)\n0 = Über Updates benachrichtigen, egal welchen Status der Spieler hat (OP oder nicht).\n1 = Benachrichitge nur Server-OPs über Updates. (Nur Clientseitige Mod-Updates werden angezeigt.)\n2 = Erlaube Clients sich selbst über Updates zu informieren.
+ichun.config.versionNotificationFrequency.comment=Wie oft willst du über ein Update informiert werden?(Client Konfiguration)\n0 = Einmal, wenn du dich mit dem Server verbindest\n1 = Einmal am Tag\n2 = Nur einmal, bis zu einem neueren Update.\n3 = Niemals (Dies verbirgt alle Benachrichtigungen. Der Mod prüft weiterhin auf Updates und zeigt diese in der Konsole.).
+ichun.config.showPatronReward.comment=Do you want to show your patron reward to other players?
+
+ichun.gui.newUpdate=Neues Mod-Update verfügbar!

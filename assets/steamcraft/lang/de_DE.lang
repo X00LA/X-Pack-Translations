@@ -1,0 +1,508 @@
+##########################################################
+# Translation fixed by [YOUR NAME HERE], [DATE]               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+steamcraft.book.index=Index
+steamcraft.book.info=Leitfaden zum Dampfbetrieb
+steamcraft.book.by=von
+steamcraft.book.shapeless=Formlos
+steamcraft.book.clickme=Klicke hier um zur Herstellung zu wechseln
+steamcraft.book.shiftright=Control und Klick bringt dich zu den Informationen
+item.steamcraft:book.name=Geniale Erfindungen
+potion.partialInvisible=Tarnen
+steamcraft.canned=Abgefüllt
+
+steamcraft.plate.bonus=Exosuit Effekt: 
+steamcraft.plate.copper=Explosionsschutz
+steamcraft.plate.brass=Feuerschutz
+steamcraft.plate.iron=Projektilschutz
+steamcraft.plate.gold=Zusätzliche Erfahrung
+steamcraft.plate.thaumium=Vis Rabatt
+steamcraft.plate.terrasteel=Erhöhte Gesundheit
+steamcraft.plate.elementum=Spawnt Pixies
+steamcraft.plate.fiery=Feurige Aura
+steamcraft.plate.yeti=Chill Aura
+steamcraft.plate.sadist=Gewinne LP wenn verletzt
+steamcraft.plate.lead=Rückstoß Widerstand
+steamcraft.plate.vibrant=Teleportieren wenn verletzt
+steamcraft.plate.enderium=Ender Aura
+
+steamcraft.color.black=Schwarz gefärbt
+steamcraft.color.red=Rot gefärbt
+steamcraft.color.green=Grün gefärbt
+steamcraft.color.brown=Braun gefärbt
+steamcraft.color.blue=Blau gefärbt
+steamcraft.color.purple=Violett gefärbt
+steamcraft.color.cyan=Cyan gefärbt
+steamcraft.color.lightgray=Hellgrau gefärbt
+steamcraft.color.gray=Grau gefärbt
+steamcraft.color.pink=Pink gefärbt
+steamcraft.color.lime=Hellgrün gefärbt
+steamcraft.color.yellow=Gelb gefärbt
+steamcraft.color.lightblue=Hellblau gefärbt
+steamcraft.color.magenta=Fuchsia gefärbt
+steamcraft.color.orange=Orange gefärbt
+steamcraft.color.white=Weiß gefärbt
+
+steamcraft.astrolabe.target=Ziel:
+steamcraft.astrolabe.noTarget=Kein Ziel!
+steamcraft.astrolabe.dimension=Dimension
+steamcraft.astrolabe.dimension.overworld=die Oberwelt
+steamcraft.astrolabe.dimension.nether=das Nether
+steamcraft.astrolabe.dimension.end=das Ende
+steamcraft.astrolabe.in=in
+
+steamcraft.fan.range=Reichweite:
+steamcraft.fan.blocks=Blocks
+steamcraft.smasher.true=Modus: Brecher
+steamcraft.smasher.false=Modus: Zertrümmerer
+
+steamcraft.waila.pressure=Druck
+steamcraft.waila.valveOpen=Ventil offen
+steamcraft.waila.valveClosed=Ventil geschlossen
+steamcraft.waila.complete=Fertig
+steamcraft.waila.filling=Füllt
+steamcraft.waila.mold=Form:
+
+steamcraft.exosuit.thrustTick=per Tick von Triebwerk verbraucht
+steamcraft.exosuit.flyTick=per Tick im Flug verbraucht
+steamcraft.exosuit.shroud=Eingehüllt
+steamcraft.exosuit.level=Level
+
+category.RecentCreations.name=Neuentwicklungen
+
+category.Basics.name=Grundlagen
+research.SteamSystem.name=Dampfanlagen
+research.SteamSystem.0=Bei meinen Forschungen zu den grundlegenden Funktionsweisen dieser Welt, machte ich eine wundersame Entdeckung! Beim Erhitzen wird Wasser gasförmig, genauer: zu Dampf.<br>Desweiteren steigt der Druck an, wenn man diesen Prozess in einer geschlossenen Umgebung durchführt.
+research.SteamSystem.1=Mit einem Sortiment aus Rohren, Kesseln und verschiedenen Maschinen, kann ich eine Anlage zum Messen und Regulieren des Dampfdrucks bauen, um dessen Potential praktisch und profitabel zu nutzen.<br>Jedoch zeigten mir meine Erkenntnisse auf, dass ich meine Vorstellung von Dampf überdenken muss.
+research.SteamSystem.2=Zuerst musste ich feststellen, dass Dampf keine Flüßigkeit ist, sondern ein Gas. Aufgrund seiner natürlichen Tendenz so weit wie möglich zu expandieren, breitete sich der Dampf schnell in meiner Anlage aus Rohren, Tanks und anderen Maschinen aus. Daraus resultierend, nimmt der Dampfdruck ab, sobald man das Volumen der Anlage vergrößert.
+research.SteamSystem.3=Es ist daher wichtig, dass ich die Dampfproduktion an die Größe meiner Anlage anpasse. Wenn die Anlage zu groß ist, wird der Druckaufbau zu langsam, um meine Maschinen adäquat zu betreiben. Eine zu kleine Anlage, hat keine ausreichenden Reserven, um die Maschinen lange zu versorgen.
+research.SteamSystem.4=Neue Entwicklungen sind aber nie ohne Risiko. Obwohl die mir zur Verfügung stehenden Materialien sehr robust sind, vertragen sie nur eine begrenzte Last.<br>Wenn ich nicht aufpasse, produziere ich mehr Druck, als meine Anlage aushält. Die Folgen für Maschine und Umgebung sind katastrophal!
+research.SteamSystem.5=Mit Druckmessern, kann ich den Dampfdruck der Anlage kontrollieren.<br>Wenn sich die Nadel zu weit rechts befindet und wild ausschlägt, ist ein gefährliches Niveau erreicht. Mit Ventilen kann ich Dampf ablassen oder, wenn ich vorausgedacht habe, habe ich Berstscheiben verbaut, die nachgeben, bevor meine zerbrechlichen Bauteile Schaden nehmen.
+
+research.Camouflage.name=Rohrverkleidung
+research.Camouflage.0=Manchmal ist es besser, wenn ich meine Rohre verberge, als sie offen zu verlegen. Hier kommt meine neue Rohrverkleidung! Umschalttaste und Rechtsklick mit einem Block auf das Rohr, das ich verbergen will, verkleidet es.
+research.Camouflage.1=Verkleidete Rohre sind vollständig verborgen, während von den Boilern ein Aussparung an der Front zu sehen bleibt.<br>Während ich eine Rohrzange halte, kann ich durch die Verkleidung sehen.<br>Umschalttaste und Rechtsklick mit der Zange entfernt die Verkleidung.
+research.Ores.name=Erze
+research.Ores.0=In den Tiefen dieser Welt stieß ich immer wieder auf reiche Kupfer- und Zinkvorkommen.<br>Diese eigenartigen Metalle haben keinen erkennbaren Nutzen, aber ich bin sicher, dass ich in der Zukunft eine Verwendungsmöglichkeit für sie finde.
+research.Book.name=Vorwort
+research.Book.0=Ich habe mich dazu entschieden, die fantastische Welt der Dampftechnologie zu betreten. In diesem Buch werde ich meine spannenden Entdeckungen aufzeichnen.<br>Sobald ich neue Erkenntnisse gewinne, werde ich diese niederschreiben für den späteren Gebrauch.
+research.Bits.name=Dies und Das
+research.Bits.0=Hier dokumentiere ich die verschiedenen Komponenten für die Fertigung<br>Einen Kolben mit Messing zu beschichten, macht ihn widerstandsfähiger und dadurch zum nützlichen Bestandteil vieler Dampfapparaturen.
+research.Bits.1=Ein einfacher Rotor aus Messing bewährt sich als wertvolle Komponente - ohne Zweifel für viele Zwecke nützlich, speziell, um Dinge anzutreiben.
+research.Spyglass.name=Fernglas
+research.Spyglass.0=Wär hätte gedacht, dass ein paar Glaslinsen und ein Messinggehäuse als eine Art Lupe dienen können? Jetzt kann ich Schätze schon von einer Meile aus erspähen!<br>Während man das Gerät hält, vergrößert ein Rechtsklick, während ein Linksklick wieder verkleinert.
+research.Survivalist.name=Überlebensausrüstung
+research.Survivalist.0=Zu oft schon habe ich meine kostbaren, verzauberten Werkzeuge zerbrochen. Nun habe ich dieses kleine Werkzeug erfunden, welches ich mit mir herumtragen kann. Solange die Überlebensausrüstung in der Schnellzugriffsleiste ist, wird sie mich davon abhalten, Werkzeug zu benutzen, dass dabei ist, zu zerbrechen.
+research.SurvivalistBaubles.0=Zu oft schon habe ich meine kostbaren, verzauberten Werkzeuge zerbrochen. Nun habe ich dieses kleine Werkzeug erfunden, welches ich mit mir herumtragen kann und solche Vorfälle in Zukunft vermeidet. Solange die Überlebensausrüstung am Gürtel getragen wird, wird sie mich davon abhalten, Werkzeug zu benutzen, dass dabei ist, zu zerbrechen.
+
+research.Plates.name=Bleche
+research.Plates.0=Bei der Arbeit mit meinem neuen Gussform-Aufspanner habe ich einen Weg gefunden, Metalle effizienter zu nutzen. Ich kann Bleche gießen, die nur den Bruchteil eines Barren kosten, aber in vielen Fällen an Stelle eines solchen eingesetzt werden können.
+
+
+
+category.MetalCasting.name=Metallguss
+research.Crucible.name=Schmelztiegel
+research.Crucible.0=Endlich habe ich einen Weg gefunden, Legierungen verschiedener Metalle zu erstellen: der Schmelztiegel!<br>Um ihn zu nutzen, platziere ich den Schmelztiegel über einem offenen Feuer. Dann kann ich verschiedene Metalle hineinwerfen, aber keine Erze.
+research.Crucible.1=Das Metall wird flüssig und verschmilzt zu einer Legierung, falls möglich. Rechtsklick auf den Schmelztiegel mit einer leeren Hand kippt den Inhalt des Schmelztiegels in eine angrenzende Gussform.
+research.HellCrucible.name=Nether Schmelztiegel
+research.HellCrucible.0=In meinem Heim einen Kübel Lava zu pletzieren ist nicht gerade bequem. Egal! Mein neuer Nether Schmelztiegel, von der höllischen Macht der Unterwelt angeheizt, benötigt keine Hitzezufuhr mehr von aussen.
+research.Mold.name=Gussform-Aufspanner
+research.Mold.0=Der Schmelztiegel ist nutzlos, wenn man das Metall nicht in die benötigte Form bringen kann. Hier kommen der Gussform-Aufspanner in's Spiel.<br>Einfach einen Aufspanner mit der offenen Seite an einen Schmelztiegel stellen.
+research.Mold.1=Rechtsklick auf den Aufspanner wird ihn öffnen und schließen. Die Gussform kann mit Umschalttaste und Rechtsklick entfernt werden.<br>Um Metall zu gießen, schließe ich den Aufspanner und gieße dann flüssigiges Metall hinein. Anschließend öffne ich ihn wieder und entnehme mein gegossenes Metall.
+research.Molds.name=Gussform
+research.Molds.0=Gussformen können im Gussform-Aufspanner platziert werden, um das Erzeugnis festzulegen.<br>Rechtklick mit einer Gussform auf eine Gussformphräse wird alle verschiedenen Gussformen durchlaufen.
+research.Brass.name=Messing
+research.Brass.0=Ich habe eine vielversprechende Legierung entdeckt. Drei Teile Kupfer und ein Teil Zink werden zu Messing, einer gold-gläzenden Legierung.<br>Messing scheint korrosionswiderständig zu sein, was sich als nützlich erweisen wird.
+research.GildedGold.name=Vergoldetes Eisen
+research.GildedGold.0=Ich habe einen Weg gefunden die massive Struktur von Eisen mit den magischen Eigenschaften von Gold zu vereinen: Beschichtung. Ich beschichte Eisenbarren mit Gold, um ihre Eigenarten zu kombinieren.
+research.GildedGold.1=Rechtsklick auf einen mit Gold gefüllten Schmelztiegel mit einem Eisenbarren wird die Menge eines Nuggets and Gold verbrauchen. Es entsteht ein Barren mit der Stärke von Eisen und dem Zauber von Gold.
+category.SteamPower.name=Dampfdruck
+category.SteamPower2.name=Dampfdruck
+
+research.Boiler.name=Boiler
+research.Boiler.0=Ich habe ein Gerät erfunden, das es mir erlaubt, gasförmiges Wasser zu produzieren: Dampf. Ich füge Wasser und einen Brennstoff hinein und Dampf entsteht.<br>Dieser Dampf wird aus der Oberseite der Maschine gepumpt.
+research.FlashBoiler.name=Schnellheizer
+research.FlashBoiler.0=Mein Dampfverbrauch steigt kontinuierlich und ich brauche mehr und mehr Boiler. Ich habe es satt, dass zahllose Boiler meine Werkstatt füllen, also entschloss ich mich dazu, etwas überragendes zu bauen. Das Ergebnis?<br>Der Schnellheizer.
+research.FlashBoiler.1=Der Schnellheizer wird gebaut indem man seine Bestandteile in einem Quarder von 2x2x2 anordnet. Dann kann ich ihn in Betrieb nehmen. Der Schnellheizer verbraucht zehnmal soviel Wasser und Brennstoff wie ein normaler Boiler, aber sein Ausstoß ist ebenfalls das Zehnfache. Der Schnellheizer muss aufwärmen und wird zu Beginn nicht so schnell und effizient produzieren, wie auf Betriebstemperatur.
+research.Tank.name=Dampfkessel
+research.Tank.0=Rohre sind großartig, um Dampf zu transportieren, aber ich bin es müde geworden, jedesmal die Boiler nachzufüllen, wenn ich Dampf brauche. Ich habe Kessel gebaut, um dieses Problem zu lösen. Sie speichern große Mengen Dampf, so dass ich ihn später verwenden kann.
+research.CreativeTank.name=Sekrit Seite
+research.CreativeTank.0=du hast Sekrit gefunden
+research.Pipe.name=Rohre
+research.Pipe.0=Dampf ist nutzlos ohne eine Möglichkeit ihn zu transportieren, aber ich habe einen effzienten Weg gefunden.<br>Messingrohre sind korrosionswiderständig und daher die perfekten Leiter für Dampf.
+research.Pipe.1=Ein Rohr mit einem Schalter zu kombinieren, erlaubt es mir den Dampffluss zu regulieren. Rechtsklick auf das Ventil öffnet oder schließt das Rohr.
+research.RuptureDisc.name=Berstscheibe
+research.RuptureDisc.0=Einmal zu oft habe ich einen wertvollen Boiler oder eine Maschine verloren, weil der Dampfdruck zu hoch war. Zeit für die Berstscheibe!<br>Um die Berstscheibe zu verwenden, platziere ich sie einfach an einer Maschine oder einem Rohr das explodieren könnte.
+research.RuptureDisc.1=Sie wird aufbrechen bevor der Druck kritisch wird und Dampf ablassen. Natürlich wird sie solange Dampf ablassen, bis sie mit einem Zinkblech repariert wurde oder mit einem Zinkblech rechtsgeklickt wurde.
+
+research.Whistle.name=Dampfpfeife
+research.Whistle.0=Ich habe eine kleine Apparatur entwickelt, die mich alarmiert bevor der Dampfdruck zu groß wird. Die Dampfpfeife ertönt noch bevor eine Berstscheibe nachgeben würde.
+
+research.Gauge.name=Druckmesser
+research.Gauge.0=Ich habe eine einfach Methode gefunden, Dampf in einer Leitung zu messen. Ich kann diese Messgeräte einfach an meine Boiler, Rohre, Kessel und anderen Geräte anschließen und sie zeigen mir den Druck an und geben ein entsprechendes starkes Redstone-Signal von sich, das ein Komparator aufnehmen kann.
+research.Heater.name=Dampfheizung
+research.Heater.0=Jetzt kann ich Öfen mit Dampf betreiben in dem ich diese raffinierte Dampfheizung einsetze.<br>Dampf erhitzt die Kupferstangen und ermöglicht es einen Ofen ohne Brennstoff zu nutzen. Mehrere Dampfheizungen beschleunigen den Vorgang, verbrauchen aber auch mehr Dampf.
+research.Filler.name=Dampfinfusor
+research.Filler.0=Rohre sind gut um stationäre Maschinen zu betreiben, aber sie sind nicht geeignet für Werkzeuge und Rüstung. Dafür habe ich nun den Dampfinfusor.<br>Einfach ein dampfbetriebenes Gerät einlegen und abwarten.
+research.Filler.1=Darüber hinaus habe ich das Item nicht entfernt, um seine Fortschritte zu überprüfen. Wenn ich Manometer montieren würde, dann könnte ich den aktuellen Füllstand immer daran ablesen.
+research.FillingPad.name=Füllstation
+research.FillingPad.0=Meinen Exosuit zu befüllen kann ziemlich zeitraubend sein. Ich habe mir daher ein Gerät hergestellt, welches mir ermöglicht, den Anzug schnell und einfach zu laden. Man muss einfach nur auf dieser Füllstation stehen und es verbinden Röhren automatisch mit dem Anzug und befüllen ihn fast doppelt so schnell mit Treibstoff als wenn ich es händisch machen würde. 
+research.ItemMortar.name=Dampfmörser
+research.ItemMortar.0=Ich habe eine geniale Art und Weise erfunden, um Gegenstände zu transportieren - eine Dampfdruckkanone!<br>Dieser Dampfmörser schießt Gegenstände in steilem Winkel zum Himmel, damit sie am Zielort einschlagen.
+research.ItemMortar.1=Gegenstände werden einfach mit einem Trichter eingefüllt, das Ziel wird festgelegt und die Gegenstände fliegen.<br>Ein Astrolabium ist meine Wahl den Mörser zu kalibrieren. Zuerst mit Umschalttaste und Rechtklick auf den Zielort klicken, dann mit Rechtklick auf den Dampfmörser.
+research.Hammer.name=Dampfhammer
+research.Hammer.0=Ich habe eine interessante Erfindung gemacht - den Dampfhammer. Er erlaubt es mir die Funktionen des Amboss mit Dampf anstelle von Erfahung zu nutzen.<br>Der Hammer wird über einem Amboss angebracht.
+research.Hammer.1=Rechtsklick wird seine Eingabemaske öffnen, in der ich einstellen kann, was der Hammer machen soll. Wenn ich alles eingestellt habe, führe ich Dampf zu und warte bis die Reparatur oder Umbenennung abgeschlossen ist.
+research.Screw.name=Archimedische Schraube
+research.Screw.0=Ich habe eine Methode gefunden, um Flüssigkeiten in einen angrenzenden Behälter zu pumpen. Diese Schraube wird Flüßigkeiten von ihrem unterem Ende zum oberen Ende fördern, womit ich meine Boiler und andere Tanks auffüllen kann.
+research.Smasher.name=Zertrümmerer
+research.Smasher.0=Ich habe eine Maschine erfunden, die Erze zertrümmern kann, wobei manchmal kostbare Materialien zum Vorschein kommen, die sonst verloren gegangen wären. Platziere zwei Dampfstampfer einander gegenüber mit einem Abstand von einem Block. Nun kann ein Block dazwischen
+research.Smasher.1=zertrümmert werden.<br>Der Zertrümmerer hat zwei Modi, die mit einer Rohrzange gewechselt werden können.<br>Zertrümmerer-Modus zerkleinert Erze und Steine zu kleineren Brocken.<br>Brecher-Modus reißt Blöcke ab, ohne sie zu zerkleinern.
+research.Thumper.name=Stampfer
+research.Thumper.0=Ich muss in neuen Maßstäben denken! Ich verschwende meine Zeit mit kleinen Dingen wie dem Wassertransport und dem Zertrümmern von Erz...<br>Nein. Ich muss das größer aufziehen. Jetzt kommt der Stampfer!
+research.Thumper.1=Die Kraft des Stampfers geht direkt in den Boden und höhlt dabei einen Tunnel aus. Dieser Tunnel wird aber nicht bis zur Oberfläche reichen und somit verbleiben die Gesteine und Erze im Boden. Ich muss einen Weg finden, sie zu bergen.<br>Gegebenenfalls wird der Stampfer langsamer und stoppt. Dann sollte er neu ausgerichtet werden.
+research.Fan.name=Gebläse
+research.Fan.0=Das Gebläse ist eine sehr vielseitige Erfindung. Um es einfach auszudrücken: Es schiebt Objekte, wenn es mit Dampf versorgt wird. Es kann als Aufzug dienen, um Getreide zu ernten oder um Gegenstände und Tiere zu bewegen. Mit einer Rohrzange kann ich die Reichweite justieren.
+research.Vacuum.name=Sauger
+research.Vacuum.0=Ein wenig Experimentieren mit dem Gebläse, brachte mir einen Sauger, ein Gerät, das allerlei Gegenstände ansaugt und in einen Behälter auf der entgegengesetzen Seite des Einlasses zieht. Ich kann die Reichweite mit einer Rohrzange einstellen.
+research.FSC.name=Druckwandler
+research.FSC.0=Während die meisten Maschinen dazu gebaut wurden, dem hohen Druck Stand zu halten, den meine Boiler erzeugen, gibt es andere Geräte, die das nicht können. Der Wandler ermöglicht es, weniger Druck aus den Dampfleitungen zu ziehen oder weniger Dampfdruck in die Leitungen einzuspeisen.
+
+category.Exosuit.name=Dampfbetriebene Rüstung
+research.Exosuit.name=Dampfbetriebene Rüstung
+research.Exosuit.0=Ich gestalte mir die Welt nach meinen Vorstellungen durch die Kraft des Dampfes... Was kann ich noch verbessern, wenn nicht mich selbst?<br>Dafür habe ich eine Dampfbetriebene Rüstung entworfen.
+research.Exosuit.1=Der Rüstung können Module hinzugefügt werden an einem Konstruktionstisch. Aber vorerst muss ich einen Kessel in der quadratischen Auslassung platzieren. Dann kann ich die Rüstung mit Dampf versorgen.<br>Eine vollständige Dampfbetriebene Rüstung wird meine Bewegungs- und Abbaugeschwindigkeit erhöhen, aber ohne Dampf wird sie mich ausbremsen.
+
+research.ExoTank.name=Exosuit Tanks
+research.ExoTank.0=Der wichtigste Bestandteil eines Exosuit ist der Tank. Der Tank speichert den Dampf und beinhaltet die Kolben, verschiedene Upgrades und ist in das Bruststück integriert.
+research.ExoTankBase.name=Basis Tank
+research.ExoTankBase.0=The most easy to acquire exosuit tank is a simple steam tank that I use in my steam systems. It has the benefit of being cheap and quick to make, but it cannot hold as much steam as other tanks.
+research.ExoTankReinforced.name=Reinforced Tank
+research.ExoTankReinforced.0=I've developed a tank built specifically for use in the exosuit using my steam tank as a base. It has extra layers of reinforcement to allow it to accomodate more steam in less space, holding roughly double that of the base tank.
+research.ExoTankUberReinforced.name=Heavily Reinforced Tank
+research.ExoTankUberReinforced.0=Although it uses large amounts of brass, I've found a way to reinforce a tank even further, allowing it to hold unprecedented levels of steam, roughly twice that of my reinforced tank.
+
+research.ExoPlates.name=Exosuit Plates
+research.ExoPlates.0=The exosuit on its own is a fragile framework for upgrades. One of the most critical upgrades is plates. Various types of plating can be installed in the exosuit, providing the wearer with significantly more protection.
+research.ExoPlates.1=All plates provide an equal baseline of protection, equivalent to that of iron armor, but each plate provides a unique proficiency. Iron plating, for example, is better at protecting against projectiles.
+research.PlateCopper.name=Copper Exosuit Plate
+research.PlateCopper.0=I've found that installing copper plates in my exosuit helps to protect me from explosive damage. This exosuit plate is particularly useful for confrontations with creepers and ghasts.
+research.PlateIron.name=Iron Exosuit Plate
+research.PlateIron.0=While experimenting with different plating materials, I've found that iron is useful at stopping fast-moving projectiles. The density of iron provides a little extra protection against ranged foes such as skeletons.
+research.PlateBrass.name=Brass Exosuit Plate
+research.PlateBrass.0=I've found that brass used as a plating material helps to insulate my body from extreme heat. Brass plates are a useful for caving or expeditions to the Nether, as it can buy me a few seconds after falling into lava.
+research.PlateGold.name=Gold Exosuit Plate
+research.PlateGold.0=While exosuits can't be enchanted, the magical potential of gold can be harnessed in a different way. While wearing gold-plated exosuit parts, all the experience points I gain will be increased.
+research.PlateThaumium.name=Thaumium Exosuit Plate
+research.PlateThaumium.0=Plating my exosuit with thaumium augments the already powerful abilities of the suit with a vis discount comparable my thaumaturge's robes. Now I can use one suit for steam tinkering and thaumaturgy.
+research.PlateTerrasteel.name=Terrasteel Exosuit Plate
+research.PlateTerrasteel.0=I wasn't sure combining my powerful botanical creations with my exosuit was a good idea... Until I tried plating the suit with terrasteel! Terrasteel plates increase my maximum health, although less than terrasteel armor itself would.
+research.PlateElementium.name=Elementium Exosuit Plate
+research.PlateElementium.0=This elven metal works wonderfully with the exosuit. Plating my exosuit with elementium will spawn pixies to aid me when hurt, although less often than elementium armor. I must ask the elves if they have exosuits in Alfheim...
+research.PlateFiery.name=Fiery Exosuit Plate
+research.PlateFiery.0=I've been able to adapt the deadly fiery magic of the Twilight Forest's Hydra and Ur-Ghast for use in my exosuit. Just like fiery armor, fiery exosuit plates have a chance of lighting foes aflame when hit.
+research.PlateYeti.name=Yeti Hide
+research.PlateYeti.0=My dangerous treks to the snowy ends of the Twilight Forest have rewarded me with valuable alpha yeti fur, which I can stitch together and install in my exosuit to freeze my foes in place if they dare to attack me.
+research.PlateSadist.name=Sadistic Exosuit Plate
+research.PlateSadist.0=Combining a few reinforced slates with a rune of self-sacrifice creates a rather powerful exosuit plate. This plate, when installed, adds a small amount of LP to my network whenever I take damage, rewarding me for pain.
+research.PlateLead.name=Lead Plate
+research.PlateLead.0=Lead is an unusually heavy metal, and while I wouldn't suggest gnawing on it, makes for a good exosuit plating material. Installing lead plates in my exosuit will reduce the knockback that I recieve.
+research.PlateVibrant.name=Vibrant Plate
+research.PlateVibrant.0=Although I'm still not entirely sure how it works, I've been able to harness the mysterious ender properties of vibrant alloy for use in my exosuit. When I reach low health, I have a chance to dodge damage and teleport away.
+research.PlateEnderium.name=Enderium Plate
+research.PlateEnderium.0=Plating my exosuit with this mysterious ender metal has allowed me to harness the teleporting power of endermen as a weapon. Enemies that attack me while I wear an enderium plated exosuit have a chance to be teleported away from me.
+
+research.ExoVanity.name=Vanity Slot
+research.ExoVanity.0=Not only is my exosuit a versitile framework, it is also a customizable one. Each exosuit piece includes a vanity slot that can be used to adjust the appearance of the exosuit to my liking, using various vanity upgrades.
+research.ExoDyes.name=Exosuit Painting
+research.ExoDyes.0=Ordinary dies of all sorts can be placed in the vanity slot in order to paint the exosuit framework to better suit the look I am looking for. Adding paint will not change the color of installed plates or upgrades.
+research.EnderShroud.name=Ender Shroud
+research.EnderShroud.0=The ender shroud, a mysterious device, is able to render exosuit parts completely invisible. This allows me to show off my skin and stay protected. The shroud isn't perfect, of course. When hit, my suit will flicker for a couple seconds.
+
+research.ExoHeadHelm.name=Helmet Slot
+research.FloralLaurel.name=Floral Laurel
+research.FloralLaurel.0=Sometimes I grow tired of pulling out my wand to check how full my mana pools are. I've created a nifty little laurel out of some petals and a livingwood stick, that, when worn, will display information about botanical devices when looked at.
+research.ExoHeadGoggle.name=Mask Slot
+research.ExoBack.name=Back Slot
+research.ExoArm.name=Arm Slot
+research.ExoHip.name=Hip Slot
+research.ExoLeg.name=Leg Slot
+research.ExoHeel.name=Heel Slot
+research.ExoFoot.name=Foot Slot
+
+
+research.Jetpack.name=Turbinenrucksack
+research.Jetpack.0=Ich habe ein aufregendes Modul für das Bruststück der Dampfbetriebenen Rüstung entworfen, welches mich fliegen lässt.<br>Dieser dampfbetriebene Raketenrucksack verbraucht enorme Mengen Dampf, aber Fliegen ist unbezahlbar.
+research.Wings.name=Dampfflügel
+research.Wings.0=Ich kann durch die Lüfte gleiten wie ein Huhn und das ohne Dampf!<br>Dieses Modul für das Bruststück der Dampfbetriebenen Rüstung wird aktiv sobald ich stürze und bremst dann meinen Fall. Funktion mit der Umschalttaste deaktivieren.
+research.Thrusters.name=Triebwerke
+research.Thrusters.0=Für die Hose der Dampfbetriebenen Rüstung habe ich ein neues Modul entworfen, das meine Bewegung verbessert. Diese Düsen beschleunigen meine Bewegung durch die Luft, bei entsprechendem Dampfverbrauch. Ich kann nun weiter springen und schneller fliegen.
+research.Fist.name=Dampffaust
+research.Fist.0=Dieses Modul für das Bruststück der Dampfbetriebenen Rüstung ist eine spaßige Erfindung. Meine Schläge werden dadurch zu richtigen... Schlägen.<br>Wann immer ich einen Gegner mit meiner Faust schlage, fliegt er ein ganzes Stück zurück. Dabei wird Dampf verbraucht.
+research.ExtendoFist.name=Extendo Fist
+research.ExtendoFist.0=I've found a way to augment my reach to far beyond its normal capacity, using a series of jointed bars. I call it the extendo fist. Installing this upgrade in my exosuit will allow me to reach significantly further.
+research.PitonDeployer.name=Piton Deployer
+research.PitonDeployer.0=This new innovation allows me to get a grip on tricky situations. The piton deployer allows me to grasp walls and ceilings by right clicking, stopping falls and allowing me to dangle and use other items.
+research.FallAssist.name=Sturzbremse
+research.FallAssist.0=Für gefährliches Terrain habe ich dieses Modul für die Stiefel der Dampfbetriebenen Rüstung erfunden. Es verbraucht Dampf um Sturzschäden zu mildern.
+research.JumpAssist.name=Leap Actuator
+research.JumpAssist.0=Now I can leap to unprecedented heights with the leap actuator. This steam-piston-powered device allows me to launch myself with much more force than usual. Crouching and jumping will launch me in the direction I'm looking.
+research.RunAssist.name=Modular Accelerator
+research.RunAssist.0=Adding additional sets of pistons to my legs allows me to maneuver at speeds before unachievable. The modular accelerator, as I like to call it, allows me to run and walk much more quickly.
+research.DoubleJump.name=Pulse Nozzle
+research.DoubleJump.0=After experimenting with valve pipe applications, I found a way to use them in the exosuit to enhance mobility. The pulse nozzle lets me shoot a controlled burst of steam in midair, propelling me upward, much like a 'double jump'.
+research.StealthUpgrade.name=Acoustic Dampener
+research.StealthUpgrade.0=Sure, the exosuit is dazzling, but sometimes I need to be a bit more stealthy. I've developed a dampener to solve this. The acoustic dampener mutes my movement noises, making it harder for mobs to hear me from far away.
+research.Mask.name=Maske der Enthüllung
+research.Mask.0=Wer sagt, dass Thaumaturgie nicht mit Technologie kombiniert werden kann? Ich nicht! Ich habe eine schicke Maske erfunden, die meiner Dampfbetriebenen Rüstung die Fähigkeiten einer Zauberbrille verleiht.
+research.Canner.name=Canning Machine
+research.Canner.0=No longer will I have to manually apply canisters to my valuables, the canning machine will do it for me! Any ingots, ores or gems that I pick up while using this machine will be canned, provided I have the canisters.
+
+category.Gadgets.name=Gerätschaften
+research.SteamTools.name=Dampf-Werkzeuge
+research.SteamTools.0=Nachdem Erfolg meines Zertrümmerers und des Stampfers, bin ich dazu übergegangen tragbare Varianten dieser Maschinen zu bauen. Endlich ernte ich die Früchte meiner Arbeit in Form eines Dampfbohrers, einer Dampfsäge und einer Dampfschaufel.
+research.SteamTools.1=Diese drei Werkzeuge sind dampfbetrieben und können nicht zerbrechen.<br>Damit sie effizient eingesetzt werden können, müssen sie warmlaufen. Rechtsklick gedrückthalten lässt die Werkzeuge rotieren. Anders als bei meinen anderen Geräten, verbraucht das Arbeiten selbst keinen Dampf.
+research.Wrench.name=Rohrzange
+research.Wrench.0=Das wichtigste Werkzeug, um mit meinen Rohren zu basteln, ist eine Zange, ein Gerät mit vielseitigen Einsatzmöglichkeiten.<br>Rechtsklick auf Rohre verbindet oder trennt die Rohre von anderen Rohren und Maschinen.
+research.Wrench.1=Umschalttaste und Rechtsklick auf ein verkleidetes Rohr, entfernt die Verkleidung<br>Die meisten Maschinen lassen sich mit der Zange ausrichten.<br>Umschalttaste und Rechtsklick ermöglicht es mir bei einigen Maschinen den Betriebsmodus zu wechseln oder sie zu justieren.
+research.Canister.name=Canister
+research.Canister.0=I've finally found a way to protect my dropped items from the elements: Canisters. Canisters can be crafted with any item, rendering them nearly invincible when dropped. Canistered items automatically activate when they leave my inventory.
+research.TopHat.name=Top Hat
+research.TopHat.0=Topping my head with scraps of leather and metal is so... crude. I have created a masterpiece with some spare wool in the lab - a stylish top hat I can don on my head. It provides a small amount of protection and looks simply smashing!
+research.TopHatEmerald.name=Entrepreneur's Top Hat
+research.TopHatEmerald.0=Adorning my top hat with various emeralds seems to trick these oafish 'villagers' into thinking I'm some sort of entrepreneur... They'll give me much better deals, visually upgrading my hat each time I unlock a new trade.
+research.Goggles.name=Tinkerer's Headwear
+research.Goggles.0=It's simply unsafe to tinker with steam apparatus without proper eyewear. I have developed a pair of goggles and a monocle to protect my eyes. Both provide me with the ability to zoom in on far away objects using the 'Z' key.
+research.ExoGoggles.name=Tinkerer's Headwear
+research.ExoGoggles.0=The monocle and goggles that I developed also function when placed in an exosuit, allowing me to protect my eyes and gain the ability to zoom to see distant objects.
+research.ExoTopHat.name=Top Hat
+research.ExoTopHat.0=Both the plain and emerald-adorned versions of my top hat can be affixed to my exosuit, allowing me a mix between protection and style.
+
+category.Flintlock.name=Steinschloss-Feuerwaffen
+research.Parts.name=Waffenteile
+research.Parts.0=Steinschloss-Feuerwaffen sind extrem komplizierte Gerätschaften und es werden komplexe Einzelteile benötigt um sie herzustellen. Dieser Abschnitt beschreibt genau wie das vollbracht wird.
+research.Musket.name=Steinschloss-Muskete
+research.Musket.0=Ich habe eine Möglichkeit gefunden die Kraft des Feuers in ein effizientes Mordwerkzeug zu bündeln: die Muskete. Diese Waffe muss nach jedem Schuss nachgeladen werden mit Treibladungen als Munition. Rechtsklick zum Nachladen und Zielen.
+research.EnhancementSpyglass.name=Spyglass
+research.EnhancementSpyglass.0=I have found that I can equip my musket with a spyglass in order to more accuratly target foes. This allows me to zoom in while firing and slightly increases my accuracy.
+research.EnhancementAblaze.name=Blaze Barrel
+research.EnhancementAblaze.0=Equipping my musket with a special barrel imbued with the infernal power of the blaze superheats my musket balls, lighting my targets on fire.
+research.EnhancementAblaze2.name=Blaze Barrel
+research.EnhancementAblaze2.0=Equipping my blunderbuss with a special barrel imbued with the infernal power of the blaze superheats my musket balls, lighting my targets on fire.
+research.EnhancementSpeedloader.name=Bolt Action
+research.EnhancementSpeedloader.0=I've found a much more efficient way to reload my musket: the bolt action. Installing this mechanism on my musket will significantly decrease reload times.
+research.EnhancementSpeedloader2.name=Bolt Action
+research.EnhancementSpeedloader2.0=I've found a much more efficient way to reload my blunderbuss: the bolt action. Installing this mechanism on my blunderbuss will significantly decrease reload times.
+research.EnhancementRecoil.name=Recoil Pad
+research.EnhancementRecoil.0=A simple recoil pad made of slime can significantly decrease the knockback and recoil I recieve from the blunderbuss, while also increasing accuracy.
+research.EnhancementRevolver.name=Revolver Chamber
+research.EnhancementRevolver.0=Installing a revolver chamber in my pistol allows me to shoot six shots before a long reload, albeit with a side effect of decreased damage.
+research.EnhancementSilencer.name=Makeshift Suppressor
+research.EnhancementSilencer.0=While it might not be pretty, this makeshift suppressor helps to quiet my shots, and prevents them from aggravating normally passive beings, such as pigmen.
+research.EnhancementSpeedy.name=Breech
+research.EnhancementSpeedy.0=Adding a breech to my pistol makes it even better at quick attacks. The breech loading mechanism significantly decreases reload times as well as allowing me to run while reloading.
+research.Blunderbuss.name=Steinschluss-Donnerbüchse
+research.Blunderbuss.0=Ein größerer Messinglauf mit einem modifizierten Musketenmechanismus ergibt eine interessante Kombination, die ich Donnerbüchse nenne. Diese Waffe feuert viele, aber ungenaue Projektile, die es ermöglichen mehrere Gegner zu treffen.
+research.Pistol.name=Steinschloss-Pistole
+research.Pistol.0=Ich habe meine Muskete auf eine handlicherere Größe gestaucht, die Steinschloss-Pistole. Sie kann schneller bedient werden. Natürlich bedeutet kleinerer Lauf auch weniger Schaden und Genauigkeit, aber die Geschwindigkeit macht das wieder gut.
+itemGroup.steamcraft=FSP
+itemGroup.steamcraftTools=FSP Werkzeuge
+steamcraft.enhancementText=Verbesserungen:
+
+item.steamcraft:musketCartridge.name=Treibladung
+item.steamcraft:musket.name=Steinschloss-Muskete
+item.steamcraft:pistol.name=Steinschloss-Pistole
+item.steamcraft:revolver.name=Steinschloss-Revolver
+item.steamcraft:blunderbuss.name=Steinschloss-Donnerbüchse
+item.steamcraft:blunderbussAblaze.name=Gezündete Steinschloss-Donnerbüchse
+item.steamcraft:blunderbussSpeedloader.name=Bolt Action Flintlock Blunderbuss
+item.steamcraft:spyglass.name=Fernglas
+item.steamcraft:enhancementAblaze.name=Blaze Barrel
+item.steamcraft:enhancementSpeedloader.name=Bolt Action
+item.steamcraft:enhancementRevolver.name=Revolver Chamber
+item.steamcraft:enhancementSilencer.name=Makeshift Suppressor
+item.steamcraft:enhancementRecoil.name=Recoil Pad
+item.steamcraft:enhancementSpeedy.name=Breech
+item.steamcraft:musketMarksman.name=Scharfschützen-Steinschloss-Muskete
+item.steamcraft:musketSpeedloader.name=Bolt Action Flintlock Musket
+item.steamcraft:musketAblaze.name=Gezündete Steinschloss-Muskete
+item.steamcraft:pistolSilencer.name=Assassin's Flintlock Pistol
+item.steamcraft:pistolSpeedy.name=Breech-loading Flintlock Pistol
+item.steamcraft:blunderbussRecoil.name=Padded Flintlock Blunderbuss
+
+item.steamcraft:exoArmorHead.name=Helm der Dampfbetriebenen Rüstung
+item.steamcraft:exoArmorBody.name=Bruststück der Dampfbetriebenen Rüstung
+item.steamcraft:exoArmorLegs.name=Hose der Dampfbetriebenen Rüstung 
+item.steamcraft:exoArmorFeet.name=Stiefel der Dampfbetriebenen Rüstung
+
+item.steamcraft:monacle.name=Tinkerer's Monocle
+item.steamcraft:goggles.name=Tinkerer's Goggles
+item.steamcraft:tophatNoEmerald.name=Top Hat
+item.steamcraft:tophat.name=Entrepreneur's Top Hat
+
+
+item.steamcraft:ingot.0.name=Kupferbarren
+item.steamcraft:ingot.1.name=Zinkbarren
+item.steamcraft:ingot.2.name=Messingbarren
+item.steamcraft:ingot.3.name=Vergoldeter Eisenbarren
+
+item.steamcraft:nugget.0.name=Kupfernugget
+item.steamcraft:nugget.1.name=Zinknugget
+item.steamcraft:nugget.2.name=Eisennugget
+item.steamcraft:nugget.3.name=Messingnugget
+
+item.steamcraft:smashedOre.Iron.name=Zertrümmertes Eisenerz
+item.steamcraft:smashedOre.Gold.name=Zertrümmertes Golderz
+item.steamcraft:smashedOre.Copper.name=Zertrümmertes Kupfererz
+item.steamcraft:smashedOre.Zinc.name=Zertrümmertes Zinkerz
+item.steamcraft:smashedOre.Tin.name=Zertrümmertes Zinnerz
+item.steamcraft:smashedOre.Nickel.name=Zertrümmertes Nickelerz
+item.steamcraft:smashedOre.Silver.name=Zertrümmertes Silbererz
+item.steamcraft:smashedOre.Lead.name=Zertrümmertes Bleierz
+item.steamcraft:smashedOre.Aluminum.name=Zertrümmertes Aluminiumerz
+item.steamcraft:smashedOre.Osmium.name=Zertrümmertes Osmiumerz
+item.steamcraft:smashedOre.Cobalt.name=Zertrümmertes Kobalterz
+item.steamcraft:smashedOre.Ardite.name=Zertrümmertes Arditerz
+item.steamcraft:smashedOre.Cinnabar.name=Zertrümmertes Zinnobererz
+
+item.steamcraft:smashedOre.PoorIron.name=Zertrümmertes minderes Eisenerz
+item.steamcraft:smashedOre.PoorGold.name=Zertrümmertes minderes Golderz
+item.steamcraft:smashedOre.PoorCopper.name=Zertrümmertes minderes Kupfererz
+item.steamcraft:smashedOre.PoorZinc.name=Zertrümmertes minderes Zinkerz
+item.steamcraft:smashedOre.PoorTin.name=Zertrümmertes minderes Zinnerz
+
+item.steamcraft:crafting.0.name=Messingkolben
+item.steamcraft:crafting.1.name=Holzschaft
+item.steamcraft:crafting.2.name=Eisenlauf
+item.steamcraft:crafting.3.name=Donnerbüchsenlauf
+item.steamcraft:crafting.4.name=Steinschloss
+item.steamcraft:crafting.5.name=Messingrotor
+
+item.steamcraft:plate.0.name=Kupferblech
+item.steamcraft:plate.1.name=Zinkblech
+item.steamcraft:plate.2.name=Eisenblech
+item.steamcraft:plate.3.name=Goldblech
+item.steamcraft:plate.4.name=Messingblech
+item.steamcraft:plate.5.name=Thaumiumblech
+item.steamcraft:plate.6.name=Terrasteel Plate
+item.steamcraft:plate.7.name=Elementium Plate
+item.steamcraft:plate.8.name=Fiery Plate
+item.steamcraft:plate.9.name=Lead Plate
+item.steamcraft:plate.10.name=Vibrant Plate
+item.steamcraft:plate.11.name=Enderium Plate
+
+item.steamcraft:exosuitPlate.0.name=Copper Exosuit Plate
+item.steamcraft:exosuitPlate.1.name=Zinc Exosuit Plate
+item.steamcraft:exosuitPlate.2.name=Iron Exosuit Plate
+item.steamcraft:exosuitPlate.3.name=Gold Exosuit Plate
+item.steamcraft:exosuitPlate.4.name=Brass Exosuit Plate
+item.steamcraft:exosuitPlate.5.name=Thaumium Exosuit Plate
+item.steamcraft:exosuitPlate.6.name=Terrasteel Exosuit Plate
+item.steamcraft:exosuitPlate.7.name=Elementium Exosuit Plate
+item.steamcraft:exosuitPlate.8.name=Fiery Exosuit Plate
+item.steamcraft:exosuitPlate.9.name=Yeti Hide
+item.steamcraft:exosuitPlate.10.name=Sadistic Exosuit Plate
+item.steamcraft:exosuitPlate.11.name=Lead Exosuit Plate
+item.steamcraft:exosuitPlate.12.name=Vibrant Exosuit Plate
+item.steamcraft:exosuitPlate.13.name=Enderium Exosuit Plate
+
+item.steamcraft:reinforcedTank.name=Reinforced Exosuit Tank
+item.steamcraft:uberReinforcedTank.name=Heavily Reinforced Exosuit Tank
+
+item.steamcraft:ingotMold.name=Barren-Gussform
+item.steamcraft:nuggetMold.name=Nugget-Gussform
+item.steamcraft:plateMold.name=Blech-Gussform
+item.steamcraft:blankMold.name=Gussform-Rohling
+
+item.steamcraft:helmGildedGold.name=Vergoldeter Eisenhelm
+item.steamcraft:chestGildedGold.name=Vergoldete Eisenrüstung
+item.steamcraft:legsGildedGold.name=Vergoldete Eisenhose
+item.steamcraft:feetGildedGold.name=Vergoldete Eisenstiefel
+
+item.steamcraft:pickGildedGold.name=Vergoldete Eisenspitzhacke
+item.steamcraft:axeGildedGold.name=Vergoldete Eisenaxt
+item.steamcraft:shovelGildedGold.name=Vergoldete Eisenschaufel
+item.steamcraft:hoeGildedGold.name=Vergoldete Eisenhacke
+item.steamcraft:swordGildedGold.name=Vergoldetes Eisenschwert
+
+item.steamcraft:helmBrass.name=Messinghelm
+item.steamcraft:chestBrass.name=Messingrüstung
+item.steamcraft:legsBrass.name=Messinghose
+item.steamcraft:feetBrass.name=Messingstiefel
+
+item.steamcraft:pickBrass.name=Messingspitzhacke
+item.steamcraft:axeBrass.name=Messingaxt
+item.steamcraft:shovelBrass.name=Messingschaufel
+item.steamcraft:hoeBrass.name=Messinghacke
+item.steamcraft:swordBrass.name=Messingschwert
+
+item.steamcraft:steamDrill.name=Dampfbohrer
+item.steamcraft:steamAxe.name=Dampfsäge
+item.steamcraft:steamShovel.name=Dampfschaufel
+item.steamcraft:astrolabe.name=Astrolabium
+item.steamcraft:wrench.name=Rohrzange
+
+item.steamcraft:survivalist.name=Überlebensausrüstung
+
+item.steamcraft:powerFist.name=Dampffaust
+item.steamcraft:extendoFist.name=Extendo Fist
+item.steamcraft:fallAssist.name=Sturzbremse
+item.steamcraft:jetpack.name=Turbinenrucksack
+item.steamcraft:wings.name=Dampfflügel
+item.steamcraft:goggleUpgrade.name=Maske der Enthüllung
+item.steamcraft:floralLaurel.name=Floral Laurel
+item.steamcraft:thrusters.name=Triebwerke
+item.steamcraft:runAssist.name=Modular Accelerator
+item.steamcraft:doubleJump.name=Pulse Nozzle
+item.steamcraft:jumpAssist.name=Leap Actuator
+item.steamcraft:stealthUpgrade.name=Acoustic Dampener
+item.steamcraft:canner.name=Canner
+item.steamcraft:pitonDeployer.name=Piton Deployer
+item.steamcraft:enderShroud.name=Ender Shroud
+
+item.steamcraft:canister.name=Item Canister
+
+item.steamcraft:kek.name=Toppest of Keks
+
+
+item.steamcraft:steamedChicken.name=Gedünstetes Huhn
+item.steamcraft:steamedBeef.name=Gedünstetes Rindfleisch
+item.steamcraft:steamedFish.name=Gedünsteter Fisch
+item.steamcraft:steamedPorkchop.name=Gedünstetes Schweinefleisch
+
+tile.steamcraft:blockBrass.name=Messingblock
+tile.steamcraft:blockCopper.name=Kupferblock
+tile.steamcraft:blockZinc.name=Zinkblock
+
+tile.steamcraft:charger.name=Dampfinfusor
+tile.steamcraft:chargingPad.name=Filling Pad
+tile.steamcraft:crucible.name=Schmelztiegel
+tile.steamcraft:hellCrucible.name=Nether Crucible
+tile.steamcraft:mold.name=Gussform-Aufspanner
+tile.steamcraft:pipe.name=Rohr
+tile.steamcraft:valvePipe.name=Ventil
+tile.steamcraft:boiler.name=Boiler
+tile.steamcraft:heater.name=Dampfheizung
+tile.steamcraft:ore.0.name=Kupfererz
+tile.steamcraft:ore.1.name=Zinkerz
+tile.steamcraft:ore.2.name=Minderes Zinkerz
+tile.steamcraft:carving.name=Gussformphräse
+tile.steamcraft:engineering.name=Konstruktionstisch
+tile.steamcraft:tank.0.name=Dampfkessel
+tile.steamcraft:tank.1.name=Dampfkessel [Kreativ-Modus]
+tile.steamcraft:meter.name=Druckmesser
+tile.steamcraft:hammer.name=Dampfhammer
+tile.steamcraft:itemMortar.name=Dampfmörser
+tile.steamcraft:pump.name=Archimedische Schraube
+tile.steamcraft:smasher.name=Zertrümmerer
+tile.steamcraft:thumper.name=Stampfer
+tile.steamcraft:flashBoiler.name=Schnellheizer
+tile.steamcraft:ruptureDisc.0.name=Berstscheibe
+tile.steamcraft:ruptureDisc.1.name=Gebrochene Berstscheibe
+tile.steamcraft:fan.name=Fan
+tile.steamcraft:vacuum.name=Vacuum
+tile.steamcraft:horn.name=Steam Whistle
+tile.steamcraft:fluidSteamConverter.name=Pressure Converter

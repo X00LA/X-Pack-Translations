@@ -1,0 +1,11 @@
+##########################################################
+# Translated by X00LA, 22.09.2014               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+entity.EntityHamster.name=Hamster
+item.HamsterBall.name=Hamster Laufball
+item.HamsterFood.name=Hamsterfutter
+tile.WaterBottle.name=Wasserflasche
+itemGroup.hamsters=Hamster

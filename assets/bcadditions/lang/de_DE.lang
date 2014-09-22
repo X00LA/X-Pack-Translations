@@ -1,0 +1,161 @@
+##########################################################
+# Translation fixed by [YOUR NAME HERE], [DATE]               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+tile.blockFluidicCompressor.name=Flüssigkeitskompressor
+tile.blockChargingStation.name=Ladestation
+tile.blockHeatedFurnace.name=Beheizter Ofen
+tile.blockCoilBasic.name=Einfache Spule
+tile.blockDusterBasic.name=Einfacher Pulverisierer
+tile.blockDusterSemiAutomatic.name=Halbautomatischer Pulverisierer
+tile.blockDusterMechanical.name=Mechanischer Pulverisierer
+tile.blockDusterKinetic.name=Kinetischer Pulverisierer
+
+item.ironCanister.name=Eisenkanister
+item.goldCanister.name=Goldkanister
+item.diamondCanister.name=Diamantkanister
+item.mjMeter.name=MJ-Meter
+item.poweredShovel.name=Kinetisches Grabegerät
+item.drill.name=Kinetischer Bohrer
+item.chainsaw.name=Kinetische Kettensäge
+item.megaHoe.name=Kinetische Hacke
+item.PowerCapsuleTier1.name=Kinetische Kapsel - Stufe 1
+item.PowerCapsuleTier2.name=Kinetische Kapsel - Stufe 2
+item.PowerCapsuleTier3.name=Kinetische Kapsel - Stufe 3
+item.stickIron.name=Eisenstange
+item.stickGold.name=Goldstange
+item.stickDiamond.name=Diamantstange
+item.stickEmerald.name=Smaragdstange
+item.toolCore.name=Werkzeugkern
+item.toolUpgradeDrill.name=Bohrkopf
+item.toolUpgradeDigger.name=Ausgrabungsaufsatz
+item.toolUpgradeChainsaw.name=Sägeblatt
+item.toolUpgradeHoe.name=Ackerbauaufsatz
+item.kineticMultiTool.name=Kintetisches Multi-Tool
+item.dustGold.name=Goldstaub
+item.dustIron.name=Eisenstaub
+item.dustCopper=Kupferstaub
+item.dustLead=Bleistaub
+item.dustNickel=Nickelstaub
+item.dustPlatinum=Platinstaub
+item.dustTin.name=Zinnstaub
+item.dustSilver.name=Silberstaub
+item.dustDiamond.name=Diamantstaub
+item.grindingWheel.name=Schleifscheibe
+item.engineeringDiary.name=Tagebuch des Ingenieurs
+item.wireIron.name=Eisendraht
+item.wireIronUnhardened.name=Eisendraht (ungehärtet)
+
+tooltip.installed=Installiert
+tooltip.deactivated=Deaktiviert
+tooltip.upgradesPossible=Mögliche Upgrades
+
+gui.progress=Fortschritt
+gui.fluid=Flüssigk.
+gui.noFluid=Leer
+gui.fluidStored=Flüssigkeitsmenge
+gui.energyInTool=Gespeicherte Energie
+gui.maxEnergy=Max Energie
+
+trigger.canisterRequested=Kanister bestellt
+trigger.hasEmptyCanister=Hat leeren Kanister
+trigger.hasFullCanister=Hat vollen Kanister
+trigger.doneCharging=Laden beendet
+trigger.readyToCharge=Bereit zum Laden
+
+itemGroup.BuildcraftAdditions=Buildcraft Additions
+
+Eureka=HEUREKA!
+eureka.dusterTier1Finished=Während du deine Erze verarbeitest, bemerkst du plötzlich, dass es effektivere Wege gibt, sie zu verarbeiten.
+eureka.dusterTier2-1Finished=Nachdem du zum Export von Verarbeitetem in Inventare fähig bist, versuchst du nun, das Verarbeiten selbst zu automatisieren.
+eureka.dusterTier2-2Finished=Dass du dich um deine Maschinen kaum noch kümmern musst, gefällt dir. Nun möchtest du auch Input/Output vollenden. Du entscheidest dich, dein Wissen in eine neue Maschine zu stecken. Vielleicht etwas mit Lasern?
+eureka.missingKnowledge=Du weißt (noch) nicht wie diese Machine funktioniert. Du hast es versucht, aber aufgrund deiner Unfähigkeit hast du sie zerstört.
+eureka.kineticToolFinished=Während du ein Werkzeug herstellst, welches ein altes ersetzt, denkst du über einen Weg nach, ein unzerstörbares Werkzeug herzustellen.
+eureka.missingKnowledge=Du hast (noch) keine Ahnung wie diese Maschine funktioniert. Du versuchst sie zu benutzen, aber aufgrund deiner Unfähigkeit fällt sie auseinander.
+eureka.missingKnowledgeKineticTool=Du hast (noch) keine Ahnung wie dieses Werkzeug funktioniert. Du versuchst es zu verwenden, aber durch deine Unfähigkeit fällt es auseinander.
+
+engineeringDiary.BCA.title=Buildcraft Additions
+engineeringDiary.BCA.page0=Hier findest du alles erforschbaren Items und deren Fortschritt.
+
+engineeringDiary.dusterTier0.title=Basic Duster
+engineeringDiary.dusterTier0.page0=Du kannst diese simple Maschine dazu benutzen um deine Erze zu verdoppeln.
+engineeringDiary.dusterTier0.page1=Du bist zwar kein Nostalgiker, aber manchmal trifft es jeden mal. Du erinnerst dich an die guten, alten Tage wo man alle Erze hatte die man wollte und sie immer nur dazu benutzte, große Redstone Apparate
+engineeringDiary.dusterTier0.page2=oder Eisenbahnen zu bauen, welche Kontinente verbanden. Gute Zeiten! Nach der Ankunft der Ingenieure hat sich aber alles verändert. All ihre komplexen Werkzeuge und Maschinen erfordern einen hohen Anteil an Erzen. 
+engineeringDiary.dusterTier0.page3=Du beginnst dich zu fragen, wie du den Erzertrag erhöhen kannst. Du hast nun den Basic Duster, eine einfache Maschine aus Stein, Schleimbällen und Grinder-Zähnen.
+engineeringDiary.dusterTier0.page4=Sie funktioniert indem man Erze hineinlegt und darauf springt. Du bist nicht wirklich scharf drauf das zu tun, aber doppelte Erze sind doppelte Erze! Du fragst dich, wie du diese Maschine verbessern kannst...
+engineeringDiary.dusterTier0.requiredResearch=Nichts
+engineeringDiary.dusterTier0.howToMakeProgress=Plane zukünftige Verbesserungen
+
+
+engineeringDiary.dusterTier1.title=Semi Automatischer Duster
+engineeringDiary.dusterTier1.page0=Dieser verbesserte Duster kann mit Lagerbeständen interagieren.
+engineeringDiary.dusterTier1.page1=Dein erster Duster war ein Durchbruch in der Erzverarbietungsszene. Niemals zuvor war es so einfach an mehr Erze zu kommen. However, everyone agreed that manually placing and jumping on the Ore was a bit rustic, so you decide
+engineeringDiary.dusterTier1.page2=to focus on making the machine better, starting with inventory connections. Experimenting with Pipes seems to have an effect, but the Stone Gears are just too crude for the Gold, so you upgrade them to Iron Gears.
+engineeringDiary.dusterTier1.page3=Finally, you have the Semi-Automatic Duster. This Duster still requires you to jump on it, but at least the Ores can be input from Hoppers and Pipes, while the output appears to move out on its own. Now it's time to work on that jumping issue.
+engineeringDiary.dusterTier1.requiredResearch=Basic Duster
+engineeringDiary.dusterTier1.howToMakeProgress=Process items in the basic duster
+
+engineeringDiary.dusterTier2-1.title=Mechanical Duster
+engineeringDiary.dusterTier2-1.page0=This ore-doubling machine can receive power
+engineeringDiary.dusterTier2-1.page1=After your initial automation discovery, you try to make the machine grind the ore for you, without success. You decide to take a step back and use the Basic Duster as base for your experiments again,
+engineeringDiary.dusterTier2-1.page2=and you end up creating the Grinding Wheel, an item that could be the key to automating this machine. And it proves very effective: once you upgrade the Stone Gears to Iron, it seems to accept power to double the ores.
+engineeringDiary.dusterTier2-1.page3=You finally made the Mechanical Duster! However this machine is another incomplete experiment, since it doesn’t have the inventory managing capabilities of the Semi-Automatic Duster. You need to step it up.
+engineeringDiary.dusterTier2-1.requiredResearch=Semi-automatic Duster
+engineeringDiary.dusterTier2-1.howToMakeProgress=Process items in the Semi-automatic Duster
+
+engineeringDiary.dusterTier2-2.title=Kinetic Duster
+engineeringDiary.dusterTier2-2.page0=The Ultimate Duster (also known as Dustinator 9000)
+engineeringDiary.dusterTier2-2.page1=After many failed Duster versions, you decide you simply can’t mix the grinding power of the Mechanical Duster and the inventory managing capabilities of the Semi-Automatic Duster, so you decide to step it up
+engineeringDiary.dusterTier2-2.page2=and try another method of doubling the Ore: Lasers. Their precision surely will help in not breaking the internal piping like it happened every time it was hit by an Engine. Fortunately it works,
+engineeringDiary.dusterTier2-2.page3=but this time you have to involve some high-tier materials, including a Diamond Gear. The Kinetic Duster is born. The precision of the Lasers keeps the internal gold circuit intact,
+engineeringDiary.dusterTier2-2.page4=which allows the machine to receive external power (through Lasers) and manage its own inventory. You’re done here.
+engineeringDiary.dusterTier2-2.requiredResearch=Mechanical Duster
+engineeringDiary.dusterTier2-2.howToMakeProgress=Process items in the Mechanical Duster
+
+engineeringDiary.kineticTool.title=Kinetic Multi-Tool
+engineeringDiary.kineticTool.page0=One tool for all
+engineeringDiary.kineticTool.page1=Tools are a fundamental part of our world and you hate the fact that they keep breaking. Machines never seem to break and you start to wonder why. After a while, you realize why: Redstone and Power.
+engineeringDiary.kineticTool.page2=While tools also receive a sort of Power (the one that comes from your arm), machines receive a special, Redstone-tuned power, and that seems to be what makes them last indefinitely.
+engineeringDiary.kineticTool.page3=You decide the best way to make Unbreakable tools is to craft them with the highest quality, Redstone-tuned materials. The core of your tool consists of a Gold Gear (for the best speed) combined
+engineeringDiary.kineticTool.page4=with a Diamond Chipset (for the long-lasting, Redstone-tune effect) in the integration table. After using Lasers to perfectly combine those items, you decide that their precision will be key in this process,
+engineeringDiary.kineticTool.page5=so to hold the tool head together, you make an Iron Stick by putting iron in the assembly table. Then it's just a matter of combining everything with some Diamonds, since that makes the hardest tools (Assembly Table).
+engineeringDiary.kineticTool.page6=You finally have your handle, and you’re certain this can hold any tool, and no matter how many times used, it’ll never break. However you still need to provide it with power, and for that you create the Kinetic Capsules.
+engineeringDiary.kineticTool.page7=Now it's time to upgrade your Kinetic Multi-Tool! For that, you put 3 Iron, 2 Gold and a Tool Core in the Assembly Table to make Tool Heads. After assembling your first Upgrade, you decide
+engineeringDiary.kineticTool.page8=that the Integration Table is best to attach it to the tool. You now have an unbreakable, MJ powered tool. However the costs of this tool were too high for you to consider making another 3 of them.
+engineeringDiary.kineticTool.page9=You decide to tinker around with it and end up finding out how to put another upgrade on the Multi-Tool! You put 4 Gold in the Assembly Table for a Golden Stick. However, attaching this to the tool by itself would make
+engineeringDiary.kineticTool.page10=its Redstone-tune out of sync, so you decide to add a Quartz Chipset alongside it (Integration Table). The tool seems to know when to use each Upgrade, making it effectively a 2 in 1 tool! This still doesn’t cover all the possible upgrades,
+engineeringDiary.kineticTool.page11=so you assemble to craft a Diamond Stick (2 diamonds in assembly table). And you place it on the tool with a Gold Chipset (Integration Table). Though the tool now has 3 upgrades, you wonder if it's possible to add a fourth one.
+engineeringDiary.kineticTool.page12=There are no other natural materials that can be made into a Stick, but one day you come across a Power Plant, and inside it you’re surprized to find an Engineer Villager! It appears this Villager has experimented with ideas
+engineeringDiary.kineticTool.page13=very similar to yours in the past, and happens to be carrying some Emerald Sticks! You rush home and combine the Stick with a Diamond Chipset into your tool. Finally, you have all 4 Upgrades into your tool!
+engineeringDiary.kineticTool.requiredResearch=None
+engineeringDiary.kineticTool.howToMakeProgress=Craft tools
+
+engineeringDiary.requiredResearch=Required research:
+engineeringDiary.progress=Progress:
+engineeringDiary.unlocked=UNLOCKED
+
+config.title=Buildcraft Additions Configuration
+
+updates=Updates
+updates.tooltip=Configure if BCA should check for updates or not
+shouldCheckForUpdates=Check for updates
+shouldCheckForUpdates.tooltip=True = check for updates, false = do not check for updates
+shouldPrintOutChangelog=Print out changelog
+shouldPrintOutChangelog.tooltip=If set to true, you will also see the changelog of the newer version
+
+BaseModifier=Base Modifier
+BaseModifier.tooltip=Base energy the tools use
+EasyDifficultyModifier=Easy Modifier
+EasyDifficultyModifier.tooltip=The energy consumption is multiplied with this on Easy
+HardDifficultyModifier=Hard Modifier
+HardDifficultyModifier.tooltip=The energy consumption is multiplied with this on Hard
+NormalDifficultyModifier=Normal Modifier
+NormalDifficultyModifier.tooltip=The energy consumption is multiplied with this on Normal
+PeacefullDifficultyModifier=Peacefull Modifier
+PeacefullDifficultyModifier.tooltip=The energy consumption is multiplied with this on Peaceful
+
+Misc=Misc
+shouldRegisterDusts=Register Dusts
+shouldRegisterDusts.tooltip=Set to false to prevent BCA from registering new dusts

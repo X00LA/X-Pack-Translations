@@ -1,0 +1,14 @@
+##########################################################
+# Translated by X00LA, 20-09-2014               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+config.copycore.category.tweaks=Optimierungs-Einstellungen
+config.copycore.category.tweaks.tooltip=Verschiedene Optimierungs Einstellungen
+config.copycore.tweaks.autoReplace=Automatischer Stapel Ersatz
+config.copycore.tweaks.autoReplace.tooltip=Wenn aktiviert, wird der aufgebrauchte Stapel mit dem nächsten in der gleichen Spalte ersetzt.
+config.copycore.tweaks.playerDeathitemDespawnTime=Despawn-Zeit der Spieler Items bei Tod
+config.copycore.tweaks.playerDeathitemDespawnTime.tooltip=Zeit in Sekunden, inder die Items eines toten Spielers erhalten bleiben. Verwende -1 um die Optimierung zu deaktivieren.
+config.copycore.tweaks.doubleDoorInteraction=Doppeltür Interaktion
+config.copycore.tweaks.doubleDoorInteraction.tooltip=Wenn aktiviert, werden bei Interaktion mit einer Doppeltür beide Flügel geöffnet.

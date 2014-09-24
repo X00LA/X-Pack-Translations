@@ -1,0 +1,34 @@
+##########################################################
+# Translated by X00LA, 23.09.2014              
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+item.wooden_upgrade.name=Holz Blockling Upgrade
+item.cobblestone_upgrade.name=Bruchstein Blockling Upgrade
+item.stone_upgrade.name=Stein Blockling Upgrade
+item.iron_upgrade.name=Eisen Blockling Upgrade
+item.lapis_lazuli_upgrade.name=Lapis Lazuli Blockling Upgrade
+item.gold_upgrade.name=Gold Blockling Upgrade
+item.diamond_upgrade.name=Diamant Blockling Upgrade
+item.emerald_upgrade.name=Smaragd Blockling Upgrade
+item.obsidian_upgrade.name=Obsidian Blockling Upgrade
+
+item.damage_upgrade_1.name=Schadens-Upgrade (Tier 1)
+item.damage_upgrade_2.name=Schadens-Upgrade (Tier 2)
+item.damage_upgrade_3.name=Schadens-Upgrade (Tier 3)
+
+item.health_upgrade_1.name=Gesundheits-Upgrade (Tier 1)
+item.health_upgrade_2.name=Gesundheits-Upgrade (Tier 2)
+item.health_upgrade_3.name=Gesundheits-Upgrade (Tier 3)
+
+item.speed_upgrade_1.name=Geschwindigkeits-Upgrade (Tier 1)
+item.speed_upgrade_2.name=Geschwindigkeits-Upgrade (Tier 2)
+item.speed_upgrade_3.name=Geschwindigkeits-Upgrade (Tier 3)
+
+item.chest_upgrade.name=Kisten Upgrade
+item.shrink_upgrade.name=Schrumpf Upgrade
+
+entity.entity_blockling.name=Blockling
+
+itemGroup.tabBlocklings=Blocklinge

@@ -5,7 +5,7 @@
 ##########################################################
 
 tile.advgenerators.FluidInput.name=Flüssigleits-Einlassventil
-tile.advgenerators.FuelTank.name=Treisbstofftank
+tile.advgenerators.FuelTank.name=Treibstofftank
 tile.advgenerators.MJOutput.name=Pneumatischer Leistungs Emitter
 tile.advgenerators.PowerCapacitor.name=Spannungskondensator
 tile.advgenerators.Turbine.name=Turbine

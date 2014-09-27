@@ -28,7 +28,7 @@ README Deutsch
 
 Dieses Paket enthält folgende Inhalte:
 
-- Deutsche Übersetuzungen für verwendete Mods welche selbst keine haben;
+- Deutsche Übersetzungen für verwendete Mods welche selbst keine haben;
 - Ausbesserungen für Übersetzungen die bereits von Mods verwendet werden;
 - Diverse Fehlerbehebungen oder Verbesserungen von Sounddateien die von Mods genutzt werden;
 

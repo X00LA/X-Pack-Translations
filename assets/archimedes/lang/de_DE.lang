@@ -1,74 +1,74 @@
 ##########################################################
-# Translated by zunalili, 26.09.2014               
+# Translated by [YOUR NAME HERE], [DATE]               
 # for use in the X-Pack Mod Pack.
 # Please read the README file for License information!
 ##########################################################
 
 #Archimedes' Ships language file de_DE
 
-entity.ArchimedesShips.shipmod.name=Archimedes' Schiffe
+entity.ArchimedesShips.shipmod.name=Archimedes' Ships
 
-tile.archimedes.marker.name=Schiffsruder
-tile.archimedes.floater.name=Schwimmdock
-tile.archimedes.balloon.name=Luftballon
-tile.archimedes.balloon.black.name=schwarzer Luftballon
-tile.archimedes.balloon.red.name=roter Luftballon
-tile.archimedes.balloon.green.name=grüner Luftballon
-tile.archimedes.balloon.brown.name=brauner Luftballon
-tile.archimedes.balloon.blue.name=blauer Luftballon
-tile.archimedes.balloon.purple.name=lilaner Luftballon
-tile.archimedes.balloon.cyan.name=cyanfarbener Luftballon
-tile.archimedes.balloon.silver.name=silberner Luftballon
-tile.archimedes.balloon.gray.name=grauer Luftballon
-tile.archimedes.balloon.pink.name=pinker Luftballon
-tile.archimedes.balloon.lime.name=lindgrüner Luftballon
-tile.archimedes.balloon.yellow.name=gelber Luftballon
-tile.archimedes.balloon.light_blue.name=hellblauer Luftballon
-tile.archimedes.balloon.magenta.name=magentafarbener Luftballon
-tile.archimedes.balloon.orange.name=orangener Luftballon
-tile.archimedes.balloon.white.name=weißer Luftballon
-tile.archimedes.gauge.name=Messgeräte
-tile.archimedes.seat.name=Mitfahrersitze
-tile.archimedes.buffer.name=Andockflock
-tile.archimedes.engine.name=Dampfmaschine
-tile.archimedes.crate_wood.name=Holzkiste
+tile.archimedes.marker.name=Ship's Helm
+tile.archimedes.floater.name=Floater
+tile.archimedes.balloon.name=Air Balloon
+tile.archimedes.balloon.black.name=Black Air Balloon
+tile.archimedes.balloon.red.name=Red Air Balloon
+tile.archimedes.balloon.green.name=Green Air Balloon
+tile.archimedes.balloon.brown.name=Brown Air Balloon
+tile.archimedes.balloon.blue.name=Blue Air Balloon
+tile.archimedes.balloon.purple.name=Purple Air Balloon
+tile.archimedes.balloon.cyan.name=Cyan Air Balloon
+tile.archimedes.balloon.silver.name=Silver Air Balloon
+tile.archimedes.balloon.gray.name=Gray Air Balloon
+tile.archimedes.balloon.pink.name=Pink Air Balloon
+tile.archimedes.balloon.lime.name=Lime Air Balloon
+tile.archimedes.balloon.yellow.name=Yellow Air Balloon
+tile.archimedes.balloon.light_blue.name=Light Blue Air Balloon
+tile.archimedes.balloon.magenta.name=Magenta Air Balloon
+tile.archimedes.balloon.orange.name=Orange Air Balloon
+tile.archimedes.balloon.white.name=Air Balloon
+tile.archimedes.gauge.name=Measurement Gauges
+tile.archimedes.seat.name=Passenger Seat
+tile.archimedes.buffer.name=Shore Buffer
+tile.archimedes.engine.name=Steam Engine
+tile.archimedes.crate_wood.name=Wooden Crate
 
-key.archimedes.up=Aufsteigen
-key.archimedes.down=Absteigen
-key.archimedes.brake=Bremse
-key.archimedes.align=Ausrichten
+key.archimedes.up=Ascent
+key.archimedes.down=Descent
+key.archimedes.brake=Brake
+key.archimedes.align=Align
 key.archimedes.decompile=Disassemble
-key.archimedes.shipinv=Schiffsinventar
+key.archimedes.shipinv=Ship Inventory
 
-gui.shipstatus.title=Status des Schiffes
-gui.shipstatus.rename=Umbenennen
-gui.shipstatus.done=Umbenennung beenden
-gui.shipstatus.compile=Schiffsausrichtung
-gui.shipstatus.undo=Abbrechen
+gui.shipstatus.title=Ship Status
+gui.shipstatus.rename=Rename
+gui.shipstatus.done=Done Renaming
+gui.shipstatus.compile=Assemble Ship
+gui.shipstatus.undo=Undo
 gui.shipstatus.mount=Mount Ship
 gui.shipstatus.name=Name
-gui.shipstatus.shiptype=Typ
-gui.shipstatus.type.unknown=unbekannter Typ
-gui.shipstatus.type.airship=Luftschiff
-gui.shipstatus.type.boat=Schiff
+gui.shipstatus.shiptype=Type
+gui.shipstatus.type.unknown=Unknown Type
+gui.shipstatus.type.airship=Airship
+gui.shipstatus.type.boat=Ship
 gui.shipstatus.compilerresult=Status
-gui.shipstatus.count.block=Blöcke
-gui.shipstatus.count.balloon=Luftballons
+gui.shipstatus.count.block=Blocks
+gui.shipstatus.count.balloon=Air Balloons
 gui.shipstatus.count.tileentity=Tile Entities
-gui.shipstatus.mass=Masse
+gui.shipstatus.mass=Mass
 gui.shipstatus.massunit=kg
 
-gui.shipstatus.result.none=Nicht Ausgerichtet
+gui.shipstatus.result.none=Not Assembled
 gui.shipstatus.result.ok=OK
-gui.shipstatus.result.okwarn=Veränderungen festgestellt
-gui.shipstatus.result.missingmarker=fehlendes Schiffsruder
-gui.shipstatus.result.overflow=                                                               
-gui.shipstatus.result.error=Fehler
-gui.shipstatus.result.busy=eird ausgerichtet...
-gui.shipstatus.result.inconsistent=instabil
+gui.shipstatus.result.okwarn=Changes detected
+gui.shipstatus.result.missingmarker=Missing Helm
+gui.shipstatus.result.overflow=Overflow
+gui.shipstatus.result.error=Error
+gui.shipstatus.result.busy=Assembling...
+gui.shipstatus.result.inconsistent=Inconsistent
 
-gui.shipinv.title=Schiffsinventar
+gui.shipinv.title=Ship Inventory
 gui.shipinv.decompile=Disassemble
 gui.shipinv.align=Align
 
-gui.engine.title=Dampfmaschinen-Treibstoff
+gui.engine.title=Steam Engine Fuel

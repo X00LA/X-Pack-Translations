@@ -20,25 +20,29 @@ To install it drag and drop the zip into "~/.minecraft/resourcepacks" and activa
 The files in this Pack are licensed under ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License] (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+Excluded from this License are the respective Mod Maker itself. They are authorized to free to use the translations under their own license.
+
 ############################################
 
 README Deutsch
 
-Dieses Paket enthält folgende Inhalte:
+Dieses Paket enthÃ¤lt folgende Inhalte:
 
-- Deutsche Übersetuzungen für verwendete Mods welche selbst keine haben;
-- Ausbesserungen für Übersetzungen die bereits von Mods verwendet werden;
+- Deutsche Ãœbersetuzungen fÃ¼r verwendete Mods welche selbst keine haben;
+- Ausbesserungen fÃ¼r Ãœbersetzungen die bereits von Mods verwendet werden;
 - Diverse Fehlerbehebungen oder Verbesserungen von Sounddateien die von Mods genutzt werden;
 
 Installation Windows
-Um das Paket zu installieren, die zip-Datei einfach in den Ordner "%AppData%\.minecraft\resourcepacks" ziehen um im Spiel unter "Resourcenpakete" im Einstellungmenü aktivieren.
-Um in den AppData Ordner zu gelangen, einfach die Windows-Suche öffnen und %appdata% eingeben.
+Um das Paket zu installieren, die zip-Datei einfach in den Ordner "%AppData%\.minecraft\resourcepacks" ziehen um im Spiel unter "Resourcenpakete" im EinstellungmenÃ¼ aktivieren.
+Um in den AppData Ordner zu gelangen, einfach die Windows-Suche Ã¶ffnen und %appdata% eingeben.
 
 Installation Mac
-Um das Paket zu installieren, die zip-Datei einfach in den Ordner "~/Library/Application Support/minecraft/resourcepacks" ziehen um im Spiel unter "Resourcenpakete" im Einstellungmenü aktivieren.
+Um das Paket zu installieren, die zip-Datei einfach in den Ordner "~/Library/Application Support/minecraft/resourcepacks" ziehen um im Spiel unter "Resourcenpakete" im EinstellungmenÃ¼ aktivieren.
 
 Installation Linux
-Um das Paket zu installieren, die zip-Datei einfach in den Ordner "~/.minecraft/resourcepacks" ziehen um im Spiel unter "Resourcenpakete" im Einstellungmenü aktivieren.
+Um das Paket zu installieren, die zip-Datei einfach in den Ordner "~/.minecraft/resourcepacks" ziehen um im Spiel unter "Resourcenpakete" im EinstellungmenÃ¼ aktivieren.
 
 Die Dateien in diesem Paket sind lizensiert mit der ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 [Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 Lizenz] (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
+
+Ausgenommen von dieser Lizenz sind die jeweiligen Mod Maker an sich. Diese sind dazu berechtigt, die Ãœbersetzungen frei, unter ihren eigenen Lizenz, zu verwenden.

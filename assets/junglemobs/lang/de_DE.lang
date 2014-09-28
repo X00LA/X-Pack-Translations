@@ -1,0 +1,39 @@
+##########################################################
+# Translated by [YOUR NAME HERE], [DATE]               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+# Group Info
+junglemobs.name=Jungle Creatures
+junglemobs.description=Exotic creatures that thrive in the hot, humid and overgrown Jungles and Tropics of the world.
+#
+# Mob Events
+mobevent.theswarm.name=The Swarm
+#
+# Entites
+entity.junglemobs.geken.name=Geken
+entity.junglemobs.geken.description=Venomous reptiles with excellent jumping abilities.
+entity.junglemobs.uvaraptor.name=Uvaraptor
+entity.junglemobs.uvaraptor.description=Colourful raptors with extreme jumping and gliding abilities. Can be tamed as useful high jumping mounts, can almost sustain flight.
+entity.junglemobs.concapede.name=Concapede
+entity.junglemobs.concapede.description=Strange beetles that connect to each other. Heads lead the way and are hostile at night with a poisonous bite. Heads grow extra segments from behind and if fed vegetables, will become passive and wont defend their segments.
+entity.junglemobs.concapedesegment.name=Concapede Segment
+entity.junglemobs.concapedesegment.description=Strange beetles that connect to each other. Segments are usually attached to and are grown by heads. If detached from a head or another segment in front, it will grow into a head. Segments alone are defenseless.
+entity.junglemobs.tarantula.name=Tarantula
+entity.junglemobs.tarantula.description=Poisonous jumping spiders that leave behind a trail of temporary sticky green webbing.
+#
+# Items
+item.junglespawn.name=Spawn
+item.concapedemeatraw.name=Raw Concapede Meat
+item.concapedemeatraw.description=Close your eyes and pretend that it is chicken!
+item.concapedemeatcooked.name=Cooked Concapede Meat
+item.concapedemeatcooked.description=Tastes like BBQ chicken! Does not look like it though!
+item.tropicalcurry.name=Tropical Curry
+item.tropicalcurry.description=Bursting full of exotic flavours! Bouncy!
+item.uvaraptortreat.name=Uvaraptor Treat
+item.uvaraptortreat.description=Perhaps you can tame would, it would almost be like a flying mount!
+#
+# Blocks
+tile.quickweb.name=Quickweb
+tile.quickweb.description=A green web that will fall apart after a short time.

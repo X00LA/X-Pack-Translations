@@ -1,0 +1,35 @@
+##########################################################
+# Translated by [YOUR NAME HERE], [DATE]               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+# Group Info
+mountainmobs.name=Mountain Creatures
+mountainmobs.description=High up in the rocky mountains these beasts roam, they have mastered climbing and are not afraid of heights.
+#
+# Mob Events
+mobevent.boulderdash.name=Boulder Dash
+#
+# Entites
+entity.mountainmobs.jabberwock.name=Jabberwock
+entity.mountainmobs.jabberwock.description=Vicious deer like creatures, their hooked claws will cause a weight effect pulling their victim down, this prevents any jumping and increases falling damage, making Jabberwocks deadly in the mountains.
+entity.mountainmobs.troll.name=Troll
+entity.mountainmobs.troll.description=In the sun a Trolls skin is as hard as stone giving them good defense. Out of the sun their they soften increasing their speed but lowering their defense. They will destroy soft blocks if you get close.
+entity.mountainmobs.yale.name=Yale
+entity.mountainmobs.yale.description=Strange fluffy ram-like creatures. Yales provide wool which can be obtained using shears, they can also be farmed with vegetables. They use their horns as front legs and eat with tiny arms.
+entity.mountainmobs.geonach.name=Geonach
+entity.mountainmobs.geonach.description=Geonachs are brutal earth elementals commonly found by unsuspecting miners when disturbing the earth. They rapidly strike twice with a dig slowdown spear and then slam with their weight debuff fist.
+#
+# Items
+item.mountainspawn.name=Spawn
+item.yalemeatraw.name=Raw Yale Meat
+item.yalemeatraw.description=Tastes a bit like mutton. Very chewy when raw, causes dig speed slowdown.
+item.yalemeatcooked.name=Cooked Yale Meat
+item.yalemeatcooked.description=Tastes like minty roast lamb.
+item.peakskebab.name=Peaks Kebab
+item.peakskebab.description=The food of the mounts, increases arm strength, the best a miner could eat!
+item.boulderblastcharge.name=Boulder Blast Charge
+item.boulderblastcharge.description=Use to throw a giant boulder! Can be fired from a dispenser, causes dig speed slowdown.
+item.boulderblastscepter.name=Boulder Blast Scepter
+item.boulderblastscepter.description=High Damage, Charge Up, Applies Dig Speed Slowdown

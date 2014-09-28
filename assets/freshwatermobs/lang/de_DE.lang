@@ -1,0 +1,25 @@
+##########################################################
+# Translated by [YOUR NAME HERE], [DATE]               
+# for use in the X-Pack Mod Pack.
+# Please read the README file for License information!
+##########################################################
+
+# Group Info
+freshwatermobs.name=Freshwater Creatures
+freshwatermobs.description=Creatures of pure water, found all over, in lakes, rivers and even the rain and clouds! 
+#
+# Mob Events
+mobevent.tsunami.name=Tsunami
+#
+# Entites
+entity.freshwatermobs.jengu.name=Jengu
+entity.freshwatermobs.jengu.description=Water elementals known as the protectors of pure water, they will attack anyone they see as unpure (usually you)!
+entity.freshwatermobs.zephyr.name=Zephyr
+entity.freshwatermobs.zephyr.description=Fierce storm elementals usually found during heavy rain and especially during thunder storms. Beware as they will shock any foe close to them.
+#
+# Items
+item.freshwaterspawn.name=Spawn
+item.aquapulsecharge.name=Aqua Pulse Charge
+item.aquapulsecharge.description=Use to throw a ball of mystic water or fire from a dispenser.
+item.aquapulsescepter.name=Aqua Pulse Scepter
+item.aquapulsescepter.description=Low Damage, Charge Up, Applies Penetration, Places Water

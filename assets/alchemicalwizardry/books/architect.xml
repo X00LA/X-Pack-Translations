@@ -1,6 +1,6 @@
 <!--
 ##########################################################
-# Translated by [YOUR NAME HERE], [DATE]               
+# Translated by zunalili, 28.09.2014              
 # for use in the X-Pack Mod Pack.
 # Please read the README file for License information!
 ##########################################################
@@ -9,23 +9,23 @@
 
 <book>
     <page type="intro">
-        <text>The Architect
 
-My name is Tiberius. I was a kid when the demons came for my village during The Wars. They ransacked the houses and turned the shacks into splinters, wielding fire and water to blast the land asunder. I woke up to some travelling merchants that were passing by, equipping the warriors who were futily trying to drive off the demons that still clawed the village. 
+        <text>Der Baumeister 
 
-I was brought to a village nearby, where a magician named Magus helped tend to my wounds. The magic that he used was something that I had never seen before – it wasn’t Thaumaturgy, nor Alchemy, and it was definitely not Botany. He winked at me once he saw that my eyes were open, holding his finger to his lips.
-        </text>
+Mein Name ist Tiberius. Ich war ein Kind als die Dämonen während des Krieges in unser Dorf kamen. Sie durchwühlten die Häuser, schlugen die Hütten in Trümmer und nutzten Feuer und Wasser um das Land in Stücke zu sprengen. Ich weckte ein paar fahrende Händler, die auf der Durchreise waren um die Krieger auszurüsten, welche immer noch vergeblich versuchten die Dämonen loszuwerden, die das Dorf weiterhin angriffen.
+
+Ich wurde in ein Dorf in der Nähe gebracht, wo ein Magier namens Magus mir half meine Wunden zu versorgen. Die Magie, die er nutzte, war etwas was ich niemals zuvor gesehen habe – es war keine Thaumaturgie, keine Alchemie und es war auch keine Botanik. Er zwinkerte mir einmal zu, als er sah das meine Augen offen waren und zeigt mir nur mit Finger auf den Lippen nichts dazu zu sagen.
+       </text>
     </page>
     
     <page type="text">
-        <text>Fast-forward several years, and I have learned almost everything from Master Magus, being his third student ever to master his arts. Against his wishes, I have recorded my research and put several wards and spells on this book. So welcome, apprentice. I am known as The Architect, and I am a Blood Mage.
-
-It took several years of pestering before I managed to convince Magus to teach me. He kept on telling me that, “Magic that uses the life essence of living beings requires patience and preparation in order to master it. One false move, go a little past your natural endurance, and you may find yourself taking a nice vacation in Tartarus.” The thing was, I wanted to go there – I had some unfinished business with the demons.
-        </text>
+        <text>Einige Jahre später habe ich beinahe alles von Meister Magus gelernt und bin erst der dritte Schüler überhaupt der seine Künste meistert. Entgegen seines Willens habe ich meine Forschung aufgezeichnet und das Buch mit verschiedenen Sprüchen und Bannen gesichert. So sei willkommen mein Lehrling, ich bin bekannt als der Baumeister und ich bin ein Blutmagier.
+Einige Jahre der Belästigung dauerte es, bis ich Magus überzeugt hatte, mich zu unterrichten. Er erzählte mir immer:"Magie die Lebensenergie von Lebewesen benutzt, benötigen Vorbereitung und Geduld um sie zu meistern. Eine falsche Bewegung, benutze etwas mehr als deine natürliche Ausdauer und du wirst bald eine nette Reise in den Tartarus unternehmen." Aber eigentlich wollte ich ja dorthin - ich hatte noch einige Rechnungen mit den Dämonen offen.
+       </text>
     </page>
     
     <page type="text">
-        <text>The process that Magus originally constructed required powerful artifacts that he constructed himself, but were rather lacking where teaching was concerned. After studying a bit of alchemy and the process of “Equivalent Exchange,” I managed to construct myself an altar that would transmute items inside of its basin into new powerful forms. The only issue was that it needed a worthy catalyst, and so with a prick of the finger I set the Blood Altar alight! 
+        <text>Der Arbeitsvorgang den Magus aufgestellt hat, benötigt mächtige Artefakte die er selbst gebaut hat, aber nicht funktionierten, weil ihm das Wissen dazu fehlte. Nach dem Studium von Teilen der Alchemie und dem Vorgang des "gleichwertigen Austausches" habe ich es hinbekommen einen Altar zu bauen, der Gegenstände in einem Becken in neue mächtige Formen verwandelt. Das einzige Problem war, dass er einen wertvollen Katalysator benötigt und so stach ich mir in den Finger und entzündete den Blutaltar.
         </text>
     </page>
     

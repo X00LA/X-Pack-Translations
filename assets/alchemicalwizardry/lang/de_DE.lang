@@ -190,7 +190,7 @@ item.itemTankSegmenter.name=Alchemistischer Segmenter
 item.destinationClearer.name=Alchemistischer Reiniger
 
 #Creative Tab
-itemGroup.tabBloodMagic=Blood Magic
+itemGroup.tabBloodMagic=Blutmagie
 
 #Extra Strings
 bm.string.consume=Verbrauch
